@@ -53,8 +53,8 @@ Books
  
   -  解析卷积神经网络 - 深度学习实践手册
   -  Tensorflow实战Google深度学习框架
-  -  Tensorflow实战 
-  -  深度学习
+  -  Tensorflow实战   
+  -  深度学习
 
 
 
