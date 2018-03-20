@@ -38,9 +38,8 @@ Hyperspectral remote sensing imagery
   -  3D Densely Connected Convolutional Network for the Recognition of Human Shopping Actions
   -  Deep learning for semantic segmentation of remote sensing images with rich spectral content
   -  Sparsely Connected Convolutional Networks  
-  -  Residual Dense Network for Image Super-Resolution    
-  
-  -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
+  -  Residual Dense Network for Image Super-Resolution       
+  -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
   -  [基于深度神经网络的高光谱影响分类方法研究](http://blog.csdn.net/u012193416/article/details/79284925)
