@@ -52,7 +52,9 @@ Hyperspectral remote sensing imagery
   
 NER-LOCATION   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
-  -  Neural Architectures for Named Entity Recognition
+  -  Neural Architectures for Named Entity Recognition   
+  -  Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition
+  
 
 Books 
  
