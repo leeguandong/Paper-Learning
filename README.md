@@ -49,6 +49,9 @@ Hyperspectral remote sensing imagery
   -  基于深度卷积神经网络的遥感图像处理
   -  基于卷积神经网络的高光谱数据分类方法研究
   -  U-Net Convolutional Networks for Biomedical Image Segmentation
+  
+NER-LOCATION   
+  -  Neural Architectures for Named Entity Recognition
 
 Books 
  
