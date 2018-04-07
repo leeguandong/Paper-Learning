@@ -51,6 +51,7 @@ Hyperspectral remote sensing imagery
   -  U-Net Convolutional Networks for Biomedical Image Segmentation
   
 NER-LOCATION   
+  -  Bidirectional LSTM-CRF Models for Sequence Tagging  
   -  Neural Architectures for Named Entity Recognition
 
 Books 
