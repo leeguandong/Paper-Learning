@@ -40,10 +40,10 @@ Hyperspectral remote sensing imagery
   -  Sparsely Connected Convolutional Networks  
   -  Residual Dense Network for Image Super-Resolution    
   -  Squeeze-and-Excitation Network
-  -  Spatial Transformer Networks     
-  -  Deformable Convolutional Network     
-  -  Hyperspectral Image Classification with Deep Feature Fusion Network         
-  -  Recent Advances on Spectral-Spatial Hyperspectral Image Classification: An Overview and New Guidelines      
+  -  Spatial Transformer Networks  
+  -  Deformable Convolutional Network  
+  -  Hyperspectral Image Classification with Deep Feature Fusion Network  
+  -  Recent Advances on Spectral-Spatial Hyperspectral Image Classification: An Overview and New Guidelines  
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
@@ -53,8 +53,8 @@ Hyperspectral remote sensing imagery
   -  基于卷积神经网的高光谱数据特征提取及分类技术研究
   -  基于深度卷积神经网络的遥感图像处理
   -  基于卷积神经网络的高光谱数据分类方法研究
-  -  U-Net Convolutional Networks for Biomedical Image Segmentation       
-  -  Mask R-CNN      
+  -  U-Net Convolutional Networks for Biomedical Image Segmentation  
+  -  Mask R-CNN      
       
 NER-LOCATION   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
