@@ -11,7 +11,7 @@ High resolution remote sensing imagery
   -  Rethinking the Inception Architecture for Computer Vision
   -  Very deep convolutional networks for large-scale image recognition
   -  Deep Learning for Remote Sensing Data       
-  -  [基于卷积神经网络的图像语义分割](http://blog.csdn.net/u012193416/article/details/79326491)
+  -  [基于卷积神经网络的图像语义分割](http://blog.csdn.net/u012193416/article/details/79326491)
   -  [基于深度卷积神经网络的遥感影像车辆检测](http://blog.csdn.net/u012193416/article/details/79326374)
   -  基于改进全卷积神经网络的航拍图像语义分类方法
   -  联合显著性和多层卷积神经网络的高分影像场景分类
