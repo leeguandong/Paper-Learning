@@ -42,7 +42,7 @@ Hyperspectral remote sensing imagery
   -  Squeeze-and-Excitation Network
   -  Spatial Transformer Networks  
   -  Deformable Convolutional Network  
-  -  Hyperspectral Image Classification with Deep Feature Fusion Network  
+  -  Hyperspectral Image Classification with Deep Feature Fusion Network  
   -  Recent Advances on Spectral-Spatial Hyperspectral Image Classification: An Overview and New Guidelines  
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
