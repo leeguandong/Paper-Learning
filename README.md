@@ -44,6 +44,7 @@ Hyperspectral remote sensing imagery
   -  Deformable Convolutional Network  
   -  Hyperspectral Image Classification with Deep Feature Fusion Network  
   -  Recent Advances on Spectral-Spatial Hyperspectral Image Classification: An Overview and New Guidelines  
+  -  Diracnets Training very deep neural networks without skip-connections  
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
