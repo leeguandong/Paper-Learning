@@ -32,7 +32,8 @@ Hyperspectral remote sensing imagery
   -  Spectral-Spatial Classification of Hyperspectral Imagery with 3D convolution neural network
   -  Hyperspectral Remote Sensing Data Analysis and Future Challenges
   -  Deep Feature Extraction and Classification of Hyperspectral Images Based on Convolutional Neural Networks
-  -  DeepRoadMapper Extracting Road Topology from Aerial Image
+  -  DeepRoadMapper Extracting Road Topology from Aerial Image    
+  -  RoadTracer: Automatic Extraction of Road Networks from Aerial Images
   -  Dynamic Routing Between Capsules
   -  Densely Connected Convolutional Network
   -  3D Densely Connected Convolutional Network for the Recognition of Human Shopping Actions
@@ -44,7 +45,9 @@ Hyperspectral remote sensing imagery
   -  Deformable Convolutional Network  
   -  Hyperspectral Image Classification with Deep Feature Fusion Network  
   -  Recent Advances on Spectral-Spatial Hyperspectral Image Classification: An Overview and New Guidelines  
-  -  Diracnets Training very deep neural networks without skip-connections  
+  -  Diracnets Training very deep neural networks without skip-connections    
+  -  Deformable Convolutional Neural Networks for Hyperspectral Image Classification     
+  -  Non-local Neural Networks    
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
