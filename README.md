@@ -11,6 +11,7 @@ High resolution remote sensing imagery
   -  Rethinking the Inception Architecture for Computer Vision
   -  Very deep convolutional networks for large-scale image recognition
   -  Deep Learning for Remote Sensing Data  
+  -  Novel Deep Learning Model for Traffic Sign Detection Using Capsule   
   -  [基于卷积神经网络的图像语义分割](http://blog.csdn.net/u012193416/article/details/79326491)
   -  [基于深度卷积神经网络的遥感影像车辆检测](http://blog.csdn.net/u012193416/article/details/79326374)
   -  基于改进全卷积神经网络的航拍图像语义分类方法
@@ -47,7 +48,9 @@ Hyperspectral remote sensing imagery
   -  Recent Advances on Spectral-Spatial Hyperspectral Image Classification: An Overview and New Guidelines  
   -  Diracnets Training very deep neural networks without skip-connections    
   -  Deformable Convolutional Neural Networks for Hyperspectral Image Classification     
-  -  Non-local Neural Networks    
+  -  Non-local Neural Networks   
+  -  Convolutional Neural Networks with Alternately Updated Clique   
+  -  Multi-scale dense networks for resource efficient image classification   
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
