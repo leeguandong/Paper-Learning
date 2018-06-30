@@ -50,7 +50,8 @@ Hyperspectral remote sensing imagery
   -  Diracnets Training very deep neural networks without skip-connections    
   -  Deformable Convolutional Neural Networks for Hyperspectral Image Classification     
   -  Non-local Neural Networks   
-  -  Convolutional Neural Networks with Alternately Updated Clique   
+  -  Convolutional Neural Networks with Alternately Updated Clique     
+  -  DenseNet-Based Depth-Width Double Reinforced Deep Learning Neural Network for High-Resolution Remote Sensing Image Per-Pixel Classification   
   -  Multi-scale dense networks for resource efficient image classification   
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
