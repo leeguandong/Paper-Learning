@@ -54,7 +54,8 @@ Hyperspectral remote sensing imagery
   -  DenseNet-Based Depth-Width Double Reinforced Deep Learning Neural Network for High-Resolution Remote Sensing Image Per-Pixel Classification   
   -  Multi-scale dense networks for resource efficient image classification     
   -  Dual Path Network    
-  -  Aggregated Residual Transformations for Deep Neural Networks    
+  -  Aggregated Residual Transformations for Deep Neural Networks     
+  -  Neural Aggregation Network for Video Face Recognition      
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
