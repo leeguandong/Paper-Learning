@@ -57,7 +57,8 @@ Hyperspectral remote sensing imagery
   -  Aggregated Residual Transformations for Deep Neural Networks     
   -  Neural Aggregation Network for Video Face Recognition      
   -  HSI-CNN:A Novel Convolution Neural Network for Hyperspectral Image     
-  -  Bidierctional-Convolutional LSTM Based Spectral-Spatial Feature Learning for Hyperspectral Image Classification       
+  -  Bidierctional-Convolutional LSTM Based Spectral-Spatial Feature Learning for Hyperspectral Image Classification     
+  -  Spatial Swquential Recurrent Neural Network for  Hyperspectral Image Classification      
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
