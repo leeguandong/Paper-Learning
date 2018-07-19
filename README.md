@@ -72,7 +72,9 @@ Hyperspectral remote sensing imagery
   -  U-Net Convolutional Networks for Biomedical Image Segmentation  
   -  Mask R-CNN      
 
-
+Other     
+  -  Dropout: A Simple Way to Prevent Neural Networks from Overfitting     
+  
 NER-LOCATION   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
   -  Neural Architectures for Named Entity Recognition     
