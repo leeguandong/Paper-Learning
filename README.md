@@ -74,7 +74,8 @@ Hyperspectral remote sensing imagery
 
 Others     
   -  Dropout: A Simple Way to Prevent Neural Networks from Overfitting     
-  
+  -  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift     
+    
 NER-LOCATION   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
   -  Neural Architectures for Named Entity Recognition     
