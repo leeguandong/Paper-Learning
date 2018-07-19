@@ -72,7 +72,7 @@ Hyperspectral remote sensing imagery
   -  U-Net Convolutional Networks for Biomedical Image Segmentation  
   -  Mask R-CNN      
 
-Other     
+Others     
   -  Dropout: A Simple Way to Prevent Neural Networks from Overfitting     
   
 NER-LOCATION   
