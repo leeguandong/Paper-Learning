@@ -60,7 +60,8 @@ Hyperspectral remote sensing imagery
   -  Bidierctional-Convolutional LSTM Based Spectral-Spatial Feature Learning for Hyperspectral Image Classification   
   -  Convolutional LSTM network: A Machine learning Approach for Precipitation Nowcasting      
   -  Spatial Sequential Recurrent Neural Network for  Hyperspectral Image Classification     
-  -  Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning      
+  -  Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning  
+  -  Attention-Mechanism-Containing Neural Networks for High-Resolution Remote Sensing Image Classification    
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
@@ -72,7 +73,9 @@ Hyperspectral remote sensing imagery
   -  基于卷积神经网络的高光谱数据分类方法研究
   -  U-Net Convolutional Networks for Biomedical Image Segmentation  
   -  Mask R-CNN      
-
+  -  Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban Remote Sensing Images Using Deep Convolutional Neural Networks   
+  -  Fully convolutional networks for semantic segmentation    
+  
 Others     
   -  Dropout: A Simple Way to Prevent Neural Networks from Overfitting     
   -  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift     
