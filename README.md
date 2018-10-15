@@ -76,6 +76,8 @@ Hyperspectral remote sensing imagery
   -  Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban Remote Sensing Images Using Deep Convolutional Neural Networks   
   -  Fully convolutional networks for semantic segmentation    
   
+
+  
 Others     
   -  Dropout: A Simple Way to Prevent Neural Networks from Overfitting     
   -  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift     
