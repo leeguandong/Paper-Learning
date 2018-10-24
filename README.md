@@ -88,8 +88,9 @@ Others
 NER-LOCATION   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
   -  Neural Architectures for Named Entity Recognition     
-  -  Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition
-  
+  -  Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition      
+  -  Attention is all you need   
+    
 
 Books 
  
