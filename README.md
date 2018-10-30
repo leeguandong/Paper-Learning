@@ -83,8 +83,9 @@ Hyperspectral remote sensing imagery
   
 Others     
   -  Dropout: A Simple Way to Prevent Neural Networks from Overfitting     
-  -  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift     
-    
+  -  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift      
+  -  Hetero-ConvLSTM: A Deep Learning Approach to Traﬀic Accident Prediction on Heterogeneous Spatio-Temporal Data         
+      
 NER-LOCATION   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
   -  Neural Architectures for Named Entity Recognition     
