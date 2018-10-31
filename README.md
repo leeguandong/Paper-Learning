@@ -102,7 +102,7 @@ Books
   -  Tensorflow实战Google深度学习框架
   -  Tensorflow实战   
   -  深度学习     
-  -  数字图像处理   
+  -   数字图像处理   
   
 
 
