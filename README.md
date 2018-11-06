@@ -94,7 +94,6 @@ Others
   -  Hetero-ConvLSTM: A Deep Learning Approach to Traﬀic Accident Prediction on Heterogeneous Spatio-Temporal Data   
   -  Deep Learning of Binary Hash Codes for Fast Image Retrieval     
   -  Anytime Stereo Image Depth Estimation on Mobile Devices     
-  -  Deep Learning of Binary Hash Codes for Fast Image Retrieval    
             
 NER location   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
