@@ -75,13 +75,17 @@ Hyperspectral remote sensing imagery
   -  基于卷积神经网的高光谱数据特征提取及分类技术研究
   -  基于深度卷积神经网络的遥感图像处理
   -  基于卷积神经网络的高光谱数据分类方法研究
-  -  U-Net Convolutional Networks for Biomedical Image Segmentation  
-  -  Mask R-CNN      
-  -  Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban Remote Sensing Images Using Deep Convolutional Neural Networks   
-  -  Fully convolutional networks for semantic segmentation    
-  
+   
 Object Detection    
   -  YoloV3     
+  -  YoloV2  
+  -  YoloV1    
+  -  Mask R-CNN    
+  
+ Semantic segmentation      
+  -  U-Net Convolutional Networks for Biomedical Image Segmentation  
+  -  Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban Remote Sensing Images Using Deep Convolutional Neural Networks   
+  -  Fully convolutional networks for semantic segmentation 
     
 Others     
   -  Dropout: A Simple Way to Prevent Neural Networks from Overfitting     
