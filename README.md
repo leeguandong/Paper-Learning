@@ -85,8 +85,9 @@ Object Detection
  Semantic segmentation      
   -  U-Net Convolutional Networks for Biomedical Image Segmentation  
   -  Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban Remote Sensing Images Using Deep Convolutional Neural Networks   
-  -  Fully convolutional networks for semantic segmentation 
-    
+  -  Fully convolutional networks for semantic segmentation    
+  -  CRSNet: Dilated Convolutional Neural Networks for Underatanding the Highly Congested Scenes    
+      
 Others     
   -  Dropout: A Simple Way to Prevent Neural Networks from Overfitting     
   -  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift      
