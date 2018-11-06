@@ -94,7 +94,7 @@ Others
   -  Deep Learning of Binary Hash Codes for Fast Image Retrieval     
   -  Anytime Stereo Image Depth Estimation on Mobile Devices     
           
-NER-LOCATION   
+NER location   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
   -  Neural Architectures for Named Entity Recognition     
   -  Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition      
