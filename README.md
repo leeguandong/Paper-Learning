@@ -93,8 +93,10 @@ Others
   -  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift      
   -  Hetero-ConvLSTM: A Deep Learning Approach to Traﬀic Accident Prediction on Heterogeneous Spatio-Temporal Data   
   -  Deep Learning of Binary Hash Codes for Fast Image Retrieval     
-  -  Anytime Stereo Image Depth Estimation on Mobile Devices     
-            
+  -  Anytime Stereo Image Depth Estimation on Mobile Devices   
+  -  Learning Transferable Architectures for Scalable image recognition    
+  -  Efficient Neural Architecture Search via Parameter Sharing   
+              
 NER location   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
   -  Neural Architectures for Named Entity Recognition     
