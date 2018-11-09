@@ -95,8 +95,9 @@ Others
   -  Deep Learning of Binary Hash Codes for Fast Image Retrieval     
   -  Anytime Stereo Image Depth Estimation on Mobile Devices   
   -  Learning Transferable Architectures for Scalable image recognition    
-  -  Efficient Neural Architecture Search via Parameter Sharing   
-              
+  -  Efficient Neural Architecture Search via Parameter Sharing    
+  -  Real-time Convolutional Neural Networks for Emotion and Gener Classification   
+                
 NER location   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
   -  Neural Architectures for Named Entity Recognition     
