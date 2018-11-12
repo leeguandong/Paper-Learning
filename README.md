@@ -96,6 +96,7 @@ Others
   -  Anytime Stereo Image Depth Estimation on Mobile Devices   
   -  Learning Transferable Architectures for Scalable image recognition    
   -  Efficient Neural Architecture Search via Parameter Sharing    
+  -  Auto-keras: Efficient neural architecture search with network morphism      
   -  Real-time Convolutional Neural Networks for Emotion and Gener Classification   
                 
 NER location   
