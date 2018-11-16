@@ -82,8 +82,9 @@ Object Detection
   -  YoloV1    
   -  Mask R-CNN     
   -  SSD Single shot multibox detector   
-  -  改进的YOLOV3遥感图像飞机识别应用  
-      
+  -  改进的YOLOV3遥感图像飞机识别应用     
+  -  基于深度视感知学习的目标检测算法与应用研究   
+        
  Semantic segmentation      
   -  U-Net Convolutional Networks for Biomedical Image Segmentation  
   -  Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban Remote Sensing Images Using Deep Convolutional Neural Networks   
