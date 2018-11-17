@@ -79,9 +79,15 @@ Hyperspectral remote sensing imagery
 Object Detection    
   -  YoloV3     
   -  YoloV2  
-  -  YoloV1    
-  -  Mask R-CNN     
+  -  YoloV1  
   -  SSD Single shot multibox detector   
+  -  DSSD : Deconvolutional Single Shot Detector    
+  -  Rich feature hierarchies for accurate object detection and semantic segmentation   
+  -  Fast R-CNN   
+  -  Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks    
+  -  R-FCN: Object Detection via Region-based Fully Convolutional Networks     
+  -  Feature Pyramid Networks for Object Detection   
+  -  Mask R-CNN       
   -  改进的YOLOV3遥感图像飞机识别应用     
   -  基于深度视感知学习的目标检测算法与应用研究   
         
