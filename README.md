@@ -101,6 +101,7 @@ Others
   -  Efficient Neural Architecture Search via Parameter Sharing    
   -  Auto-keras: Efficient neural architecture search with network morphism      
   -  Real-time Convolutional Neural Networks for Emotion and Gener Classification   
+  -  人脸特征点提取方法综述
                 
 NER location   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
