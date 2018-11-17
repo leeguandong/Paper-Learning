@@ -106,7 +106,8 @@ Others
   -  Anytime Stereo Image Depth Estimation on Mobile Devices   
   -  Learning Transferable Architectures for Scalable image recognition    
   -  Efficient Neural Architecture Search via Parameter Sharing    
-  -  Auto-keras: Efficient neural architecture search with network morphism      
+  -  Auto-keras: Efficient neural architecture search with network morphism  
+  -  AdaNet: Adaptive Structural Learning of Artificial Neural Networks     
   -  Real-time Convolutional Neural Networks for Emotion and Gener Classification   
   -  人脸特征点提取方法综述
                 
