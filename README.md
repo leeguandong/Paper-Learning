@@ -66,6 +66,7 @@ Hyperspectral remote sensing imagery
   -  D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction    
   -  Remote Sensing Image Scene Classification Using Rearranged Local Features    
   -  Dual-Path Network-Based Hyperspectral Image Classification     
+  -  Decoupled network     
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
