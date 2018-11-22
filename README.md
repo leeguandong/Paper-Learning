@@ -91,6 +91,7 @@ Object Detection
   -  R-FCN: Object Detection via Region-based Fully Convolutional Networks     
   -  Feature Pyramid Networks for Object Detection   
   -  Mask R-CNN       
+  -  Speed/accuracy trade-offs for modern convolutional objects detectors     
   -  改进的YOLOV3遥感图像飞机识别应用     
   -  基于深度视感知学习的目标检测算法与应用研究   
   -  深度卷积网络卫星图像水泥厂目标检测    
