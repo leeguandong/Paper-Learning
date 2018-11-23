@@ -113,6 +113,7 @@ Others
   -  Auto-keras: Efficient neural architecture search with network morphism  
   -  AdaNet: Adaptive Structural Learning of Artificial Neural Networks     
   -  Real-time Convolutional Neural Networks for Emotion and Gener Classification   
+  -  Rethinking ImageNet Pre-training     
   -  人脸特征点提取方法综述
                 
 NER location   
