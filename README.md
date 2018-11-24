@@ -115,7 +115,9 @@ Others
   -  AdaNet: Adaptive Structural Learning of Artificial Neural Networks     
   -  Real-time Convolutional Neural Networks for Emotion and Gener Classification   
   -  Rethinking ImageNet Pre-training     
-  -  人脸特征点提取方法综述
+  -  Wide & Deep Learning for Recommender System   
+  -  人脸特征点提取方法综述   
+  -  连续特征离散化方法综述
                 
 NER location   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
