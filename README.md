@@ -117,6 +117,7 @@ Others
   -  Real-time Convolutional Neural Networks for Emotion and Gener Classification   
   -  Rethinking ImageNet Pre-training     
   -  Wide & Deep Learning for Recommender System   
+  -  Dropblock: A regularization method for convolutional network     
   -  人脸特征点提取方法综述   
   -  连续特征离散化方法综述
                 
