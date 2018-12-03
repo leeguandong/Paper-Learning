@@ -11,6 +11,11 @@
    -  EffNet: An efficient structure for convolutional neural network    
    -  Skipnet: Learning Dynamic rounting in convolutional network
 
+## Embedded component
+   - Squeeze-and-Excitation Network   
+   - Non-local Neural Networks      
+   
+  
 ## Network component
 ### Dropout
    - Dropout: A simple way to prevent neural networks from overfitting       
@@ -29,6 +34,4 @@
    - Deformable Convolutional Network    
    - Decoupled network    
    -  
-## Embedded component
-   - Squeeze-and-Excitation Network   
-   - Non-local Neural Networks 
+
