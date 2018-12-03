@@ -11,7 +11,7 @@
    -  EffNet: An efficient structure for convolutional neural network    
    -  Skipnet: Learning Dynamic rounting in convolutional network
 
-## Embedded component
+## Embedded network
    - Squeeze-and-Excitation Network   
    - Non-local Neural Networks      
    
