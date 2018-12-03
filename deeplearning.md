@@ -1,10 +1,10 @@
 # Paper-Learning
 ## Network structure
-    -  Dynamic Routing Between Capsules  
-    -  Densely Connected Convolutional Network
-    -  Sparsely Connected Convolutional Networks   
-    -  Convolutional Neural Networks with Alternately Updated Clique   
-    -  Dual Path Network   
+   -  Dynamic Routing Between Capsules  
+   -  Densely Connected Convolutional Network
+   -  Sparsely Connected Convolutional Networks   
+   -  Convolutional Neural Networks with Alternately Updated Clique   
+   -  Dual Path Network   
     
 
 
