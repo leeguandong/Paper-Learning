@@ -1,6 +1,11 @@
 # Paper-Learning
 ## Network structure
-    -  
+    -  Dynamic Routing Between Capsules  
+    -  Densely Connected Convolutional Network
+    -  Sparsely Connected Convolutional Networks   
+    -  Convolutional Neural Networks with Alternately Updated Clique   
+    -  Dual Path Network   
+    
 
 
 
@@ -22,4 +27,6 @@
    - Squeeze-and-Excitation Network   
    - Non-local Neural Networks   
 ### Convolution 
-   - 
+   - Deformable Convolutional Network    
+   - Decoupled network    
+   -  
