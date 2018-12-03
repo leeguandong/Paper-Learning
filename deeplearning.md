@@ -5,9 +5,11 @@
    -  Sparsely Connected Convolutional Networks   
    -  Convolutional Neural Networks with Alternately Updated Clique   
    -  Dual Path Network   
-   -  EffNet: An efficient structure for convolutional neural network    
    
-
+   
+## Lightweight network design
+   -  EffNet: An efficient structure for convolutional neural network    
+   -  Skipnet: Learning Dynamic rounting in convolutional network
 
 ## Network component
 ### Dropout
