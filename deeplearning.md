@@ -5,8 +5,8 @@
    -  Sparsely Connected Convolutional Networks   
    -  Convolutional Neural Networks with Alternately Updated Clique   
    -  Dual Path Network   
-    
-
+   -  EffNet: An efficient structure for convolutional neural network    
+   
 
 
 ## Network component
