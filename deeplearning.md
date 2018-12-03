@@ -12,7 +12,6 @@
    - Stochastic Depth：Deep networks with stochastic depth   
    - Cutout：Improved regularization of convolutional neural networks with cutout    
    - DropConnect：Regularization of Neural Network using DropConnec    
-***
 ### BN
    - Batch Normalization：Accelerating Deep Network Training by Reducing Internal Covariate Shift     
    - Layer normalization   
