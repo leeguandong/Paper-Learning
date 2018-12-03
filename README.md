@@ -64,7 +64,13 @@ Hyperspectral remote sensing imagery
   -  Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning  
   -  Attention-Mechanism-Containing Neural Networks for High-Resolution Remote Sensing Image Classification   
   -  D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction    
-  -  Remote Sensing Image Scene Classification Using Rearranged Local Features        
+  -  Remote Sensing Image Scene Classification Using Rearranged Local Features    
+  -  Dual-Path Network-Based Hyperspectral Image Classification     
+  -  Decoupled network     
+  -  Deep layer aggregation      
+  -  EffNet: An efficient structure for convolutional neural network   
+  -  Mobilenets:Efficient convlutional neural networks for mobile vision applications    
+  -  Mobilenet v2:Inverted Residuals and Linear Bottlenecks Mobile Networks for Classification,Detection and Segmentation    
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
@@ -74,29 +80,62 @@ Hyperspectral remote sensing imagery
   -  基于卷积神经网的高光谱数据特征提取及分类技术研究
   -  基于深度卷积神经网络的遥感图像处理
   -  基于卷积神经网络的高光谱数据分类方法研究
+   
+Object Detection    
+  -  YoloV3     
+  -  YoloV2  
+  -  YoloV1  
+  -  SSD Single shot multibox detector   
+  -  DSSD : Deconvolutional Single Shot Detector    
+  -  Rich feature hierarchies for accurate object detection and semantic segmentation   
+  -  Fast R-CNN   
+  -  Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks    
+  -  R-FCN: Object Detection via Region-based Fully Convolutional Networks     
+  -  Feature Pyramid Networks for Object Detection   
+  -  Mask R-CNN       
+  -  Speed/accuracy trade-offs for modern convolutional objects detectors     
+  -  改进的YOLOV3遥感图像飞机识别应用     
+  -  基于深度视感知学习的目标检测算法与应用研究   
+  -  深度卷积网络卫星图像水泥厂目标检测    
+          
+ Semantic segmentation      
   -  U-Net Convolutional Networks for Biomedical Image Segmentation  
-  -  Mask R-CNN      
   -  Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban Remote Sensing Images Using Deep Convolutional Neural Networks   
   -  Fully convolutional networks for semantic segmentation    
-  
-
-  
+  -  CRSNet: Dilated Convolutional Neural Networks for Underatanding the Highly Congested Scenes    
+      
 Others     
   -  Dropout: A Simple Way to Prevent Neural Networks from Overfitting     
-  -  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift     
-    
-NER-LOCATION   
+  -  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift      
+  -  Hetero-ConvLSTM: A Deep Learning Approach to Traﬀic Accident Prediction on Heterogeneous Spatio-Temporal Data   
+  -  Deep Learning of Binary Hash Codes for Fast Image Retrieval     
+  -  Anytime Stereo Image Depth Estimation on Mobile Devices   
+  -  Learning Transferable Architectures for Scalable image recognition    
+  -  Efficient Neural Architecture Search via Parameter Sharing    
+  -  Auto-keras: Efficient neural architecture search with network morphism  
+  -  AdaNet: Adaptive Structural Learning of Artificial Neural Networks     
+  -  Real-time Convolutional Neural Networks for Emotion and Gener Classification   
+  -  Rethinking ImageNet Pre-training     
+  -  Wide & Deep Learning for Recommender System   
+  -  Dropblock: A regularization method for convolutional network     
+  -  人脸特征点提取方法综述   
+  -  连续特征离散化方法综述
+                
+NER location   
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
   -  Neural Architectures for Named Entity Recognition     
-  -  Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition
-  
+  -  Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition      
+  -  Attention is all you need   
+    
 
 Books 
  
   -  解析卷积神经网络 - 深度学习实践手册
   -  Tensorflow实战Google深度学习框架
   -  Tensorflow实战   
-  -  深度学习
+  -  深度学习     
+  -   数字图像处理   
+  
 
 
 
