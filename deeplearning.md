@@ -11,7 +11,7 @@ Network component
    - Stochastic Depth：Deep networks with stochastic depth   
    - Cutout：Improved regularization of convolutional neural networks with cutout    
    - DropConnect：Regularization of Neural Network using DropConnec    
-   
+***
    - Batch Normalization：Accelerating Deep Network Training by Reducing Internal Covariate Shift     
    - Layer normalization   
    - Instance Normalization:The Missing Ingredient for Fast Stylization   
