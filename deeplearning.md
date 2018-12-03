@@ -18,4 +18,8 @@
    - Instance Normalization:The Missing Ingredient for Fast Stylization   
    - Group Normalization     
    - Switchable normalization: Differentiable Learning-to-normalize via switchable normalization   
-   
+### Embedded component
+   - Squeeze-and-Excitation Network   
+   - Non-local Neural Networks   
+### Convolution 
+   - 
