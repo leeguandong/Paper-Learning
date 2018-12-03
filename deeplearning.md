@@ -7,7 +7,7 @@
    -  Dual Path Network   
    
    
-## Lightweight network design
+## Lightweight network
    -  EffNet: An efficient structure for convolutional neural network    
    -  Skipnet: Learning Dynamic rounting in convolutional network
 
