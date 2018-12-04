@@ -8,6 +8,8 @@
    
    
 ## Lightweight network
+   -  Mobilenets:Efficient convlutional neural networks for mobile vision applications
+   -  Mobilenet v2:Inverted Residuals and Linear Bottlenecks Mobile Networks for Classification,Detection and Segmentation
    -  EffNet: An efficient structure for convolutional neural network    
    -  Skipnet: Learning Dynamic rounting in convolutional network
 
