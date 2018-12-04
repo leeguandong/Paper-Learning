@@ -36,12 +36,11 @@
    -  
 
 ## Face recognition
-### Face keypoint detection method
+### Face keypoint detection
    - DCNN: Deep Convolutional Network Cascade for Facial Point Detection      
    - Face++ DCNN: Extensive Facial Landmark Localization with Coarse-to-Fine Convolutional Network Cascade    
    - TCDCN：Facial Landmark Detection by Deep Multi-task Learning    
    - MTCNN：Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks     
    - TCNN：Facial Landmark Detection with Tweaked Convolutional Neural Networks   
    - DAN：Deep Alignment Network: A Convolutional Neural Network for Robust Face Alignment     
-   
-   - TCDCN: 
+
