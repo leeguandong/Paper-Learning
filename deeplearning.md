@@ -61,3 +61,8 @@
    -  AdaNet: Adaptive Structural Learning of Artificial Neural Networks   
 #### Application
    - 【美团】AutoML在推荐系统中的应用 https://gitbook.cn/books/5bcd96da48da2b3b6ac43327/index.html
+
+## Model fusion
+   - Snapshot ensembles: Train 1, get M for free
+   - Averaging Weights Leads to Wider Optima and Better Generalization   https://github.com/kiudee/cs-ranking   
+   
