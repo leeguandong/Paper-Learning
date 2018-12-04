@@ -17,26 +17,26 @@
    
   
 ## Network component
-### Dropout
+#### Dropout
    - Dropout: A simple way to prevent neural networks from overfitting       
    - Dropblock: A regularization method for convolutional network      
    - SpatialDropout：Efficient object localization using convolutional networks    
    - Stochastic Depth：Deep networks with stochastic depth   
    - Cutout：Improved regularization of convolutional neural networks with cutout    
    - DropConnect：Regularization of Neural Network using DropConnec    
-### BN
+#### BN
    - Batch Normalization：Accelerating Deep Network Training by Reducing Internal Covariate Shift     
    - Layer normalization   
    - Instance Normalization:The Missing Ingredient for Fast Stylization   
    - Group Normalization     
    - Switchable normalization: Differentiable Learning-to-normalize via switchable normalization   
-### Convolution 
+#### Convolution 
    - Deformable Convolutional Network    
    - Decoupled network    
    -  
 
 ## Face recognition
-### Face keypoint detection
+#### Face keypoint detection
    - DCNN: Deep Convolutional Network Cascade for Facial Point Detection      
    - Face++ DCNN: Extensive Facial Landmark Localization with Coarse-to-Fine Convolutional Network Cascade    
    - TCDCN：Facial Landmark Detection by Deep Multi-task Learning    
