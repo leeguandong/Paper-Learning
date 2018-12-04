@@ -38,7 +38,7 @@
    -  
 #### Model hyperparameter selection
    - Grid search https://github.com/johntwk/Python-ML-rolling-grid-search
-   - population based training https://deepmind.com/blog/population-based-training-neural-networks/      
+   - Population Based Training of Neural Networks https://deepmind.com/blog/population-based-training-neural-networks/      
    - 
 
 ## Face recognition
