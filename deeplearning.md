@@ -45,4 +45,4 @@
    - DAN：Deep Alignment Network: A Convolutional Neural Network for Robust Face Alignment     
 
 ## OCR
-https://github.com/wanghaisheng/awesome-ocr
+   -  https://github.com/wanghaisheng/awesome-ocr
