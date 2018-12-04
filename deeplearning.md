@@ -55,3 +55,5 @@
    -  Efficient Neural Architecture Search via Parameter Sharing    
    -  Auto-keras: Efficient neural architecture search with network morphism  
    -  AdaNet: Adaptive Structural Learning of Artificial Neural Networks   
+#### Application
+   - 【美团】AutoML在推荐系统中的应用 https://gitbook.cn/books/5bcd96da48da2b3b6ac43327/index.html
