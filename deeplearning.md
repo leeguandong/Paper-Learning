@@ -43,6 +43,7 @@
    - MTCNN：Joint Face Detection and Alignment Using Multitask Cascaded Convolutional Networks     
    - TCNN：Facial Landmark Detection with Tweaked Convolutional Neural Networks   
    - DAN：Deep Alignment Network: A Convolutional Neural Network for Robust Face Alignment     
+   - https://mp.weixin.qq.com/s/CvdeV5xgUF0kStJQdRst0w
 
 ## OCR
    -  https://github.com/wanghaisheng/awesome-ocr
