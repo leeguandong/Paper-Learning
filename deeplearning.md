@@ -34,6 +34,8 @@
    - Deformable Convolutional Network    
    - Decoupled network    
    -  
+#### Model hyperparameter selection
+   - Grid search https://github.com/johntwk/Python-ML-rolling-grid-search
 
 ## Face recognition
 #### Face keypoint detection
