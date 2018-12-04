@@ -47,7 +47,8 @@
 
 ## OCR
    -  https://github.com/wanghaisheng/awesome-ocr
-## Autokears
+   
+## AutoML
    -  Learning Transferable Architectures for Scalable image recognition    
    -  Efficient Neural Architecture Search via Parameter Sharing    
    -  Auto-keras: Efficient neural architecture search with network morphism  
