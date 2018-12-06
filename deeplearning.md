@@ -39,8 +39,8 @@
 #### Roi pooling
    
 #### Model hyperparameter selection
-   - Grid search https://github.com/johntwk/Python-ML-rolling-grid-search
-   - Population Based Training of Neural Networks https://deepmind.com/blog/population-based-training-neural-networks/      
+   - [Grid search](https://github.com/johntwk/Python-ML-rolling-grid-search)
+   - [Population Based Training of Neural Networks](https://deepmind.com/blog/population-based-training-neural-networks/)      
    - 
 
 ## Face recognition
@@ -62,12 +62,12 @@
    -  Auto-keras: Efficient neural architecture search with network morphism  
    -  AdaNet: Adaptive Structural Learning of Artificial Neural Networks   
 #### Application
-   - 【美团】AutoML在推荐系统中的应用 https://gitbook.cn/books/5bcd96da48da2b3b6ac43327/index.html
+   - [【美团】AutoML在推荐系统中的应用](https://gitbook.cn/books/5bcd96da48da2b3b6ac43327/index.html)
 
 ## Model fusion
    - Snapshot ensembles: Train 1, get M for free
-   - Averaging Weights Leads to Wider Optima and Better Generalization   https://github.com/kiudee/cs-ranking   
+   - [Averaging Weights Leads to Wider Optima and Better Generalization](https://github.com/kiudee/cs-ranking)   
    
 ## Segmentation
-   - ICNet for Real-Time Senmantic Segmentation on High-Resolution Image(https://github.com/hellochick/ICNet-tensorflow)    
+   - [ICNet for Real-Time Senmantic Segmentation on High-Resolution Image](https://github.com/hellochick/ICNet-tensorflow)    
    
