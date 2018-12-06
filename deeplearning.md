@@ -36,6 +36,8 @@
    - Deformable Convolutional Network    
    - Decoupled network    
    -  
+#### Roi pooling
+   
 #### Model hyperparameter selection
    - Grid search https://github.com/johntwk/Python-ML-rolling-grid-search
    - Population Based Training of Neural Networks https://deepmind.com/blog/population-based-training-neural-networks/      
