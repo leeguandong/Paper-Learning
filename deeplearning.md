@@ -69,5 +69,5 @@
    - Averaging Weights Leads to Wider Optima and Better Generalization   https://github.com/kiudee/cs-ranking   
    
 ## Segmentation
-   - ICNet for Real-Time Senmantic Segmentation on High-Resolution Image    
+   - ICNet for Real-Time Senmantic Segmentation on High-Resolution Image(https://github.com/hellochick/ICNet-tensorflow)    
    
