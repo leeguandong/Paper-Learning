@@ -52,8 +52,8 @@
    - TCNN：Facial Landmark Detection with Tweaked Convolutional Neural Networks   
    - DAN：Deep Alignment Network: A Convolutional Neural Network for Robust Face Alignment     
    - 
-## OCR
-   -  https://github.com/wanghaisheng/awesome-ocr
+## [OCR](https://github.com/wanghaisheng/awesome-ocr)
+   -  
    
 ## AutoML
    -  Learning Transferable Architectures for Scalable image recognition    
