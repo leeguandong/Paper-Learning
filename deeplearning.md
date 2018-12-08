@@ -69,4 +69,8 @@
    
 ## Segmentation
    - [ICNet for Real-Time Senmantic Segmentation on High-Resolution Image](https://github.com/hellochick/ICNet-tensorflow)    
+
+## Autopilot
+#### Application
+   - [【美团】基于深度学习的计算机视觉技术在无人驾驶中的应用](https://gitbook.cn/gitchat/activity/5b90dea4d8738501887c527f)
    
