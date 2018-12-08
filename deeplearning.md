@@ -1,4 +1,4 @@
-# Paper-Learning
+# Paper-Deeplearning
 ## Network structure
    -  Dynamic Routing Between Capsules  
    -  Densely Connected Convolutional Network
