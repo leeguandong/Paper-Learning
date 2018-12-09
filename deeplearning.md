@@ -36,7 +36,10 @@
    - Deformable Convolutional Network    
    - Decoupled network    
    -  
-#### Roi pooling
+## Pooling
+   - Roi pooling     
+   - Roi Align   
+   
    
 #### Model hyperparameter selection
    - [Grid search](https://github.com/johntwk/Python-ML-rolling-grid-search)
