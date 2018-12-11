@@ -78,9 +78,9 @@
    - [【美团】基于深度学习的计算机视觉技术在无人驾驶中的应用](https://gitbook.cn/gitchat/activity/5b90dea4d8738501887c527f)
    
 ## Competition
-   - [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification)   688/1256
-   - [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification)  393/836
-   - [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques) 632/4648
-   - [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification)  1227/1664
+   - [Dog Breed Identification](https://www.kaggle.com/c/dog-breed-identification)              688/1256
+   - [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification)            393/836
+   - [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)        632/4648
+   - [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification)       1227/1664
 
    
