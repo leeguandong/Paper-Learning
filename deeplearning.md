@@ -14,11 +14,11 @@
    -  Skipnet: Learning Dynamic rounting in convolutional network
 
 ## Embedded network
-   - Squeeze-and-Excitation Network   
+   - SENet:Squeeze-and-Excitation Network   
    - Non-local Neural Networks      
-   - DFL:Learning a Discriminative Filter Bank within a CNN for Fine-grained Recognition    
-      
-  
+   - DFL: Learning a Discriminative Filter Bank within a CNN for Fine-grained Recognition     
+   - CCNet: Criss-Cross Attention for Semantic Segmention     
+     
 ## Network component
 #### Dropout
    - Dropout: A simple way to prevent neural networks from overfitting       
