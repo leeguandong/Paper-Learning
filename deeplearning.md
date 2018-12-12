@@ -16,7 +16,8 @@
 ## Embedded network
    - Squeeze-and-Excitation Network   
    - Non-local Neural Networks      
-   
+   - DFL:Learning a Discriminative Filter Bank within a CNN for Fine-grained Recognition    
+      
   
 ## Network component
 #### Dropout
