@@ -46,7 +46,12 @@
    - [Grid search](https://github.com/johntwk/Python-ML-rolling-grid-search)
    - [Population Based Training of Neural Networks](https://deepmind.com/blog/population-based-training-neural-networks/)      
    - 
-
+   
+## Neural network essence   
+   - An Information-Theoretic View for DL    
+   - i-RevNet: Deep Invertible Networks   
+   - Opening the black box of deep neuron network via information     
+   
 ## Face recognition
 #### [Face keypoint detection](https://mp.weixin.qq.com/s/CvdeV5xgUF0kStJQdRst0w)
    - DCNN: Deep Convolutional Network Cascade for Facial Point Detection      
