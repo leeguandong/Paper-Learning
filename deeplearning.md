@@ -5,7 +5,8 @@
    -  Sparsely Connected Convolutional Networks   
    -  Convolutional Neural Networks with Alternately Updated Clique   
    -  Dual Path Network   
-   
+   -  Deformable Convolutional Network    
+   -  Deformable convnets v2 more deformable, Better Results    
    
 ## Lightweight network
    -  Mobilenets:Efficient convlutional neural networks for mobile vision applications
