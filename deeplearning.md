@@ -51,7 +51,8 @@
    - An Information-Theoretic View for DL    
    - i-RevNet: Deep Invertible Networks   
    - Opening the black box of deep neuron network via information     
-   
+   - Understanding deep learning requires rethinking generalization   
+      
 ## Face recognition
 #### [Face keypoint detection](https://mp.weixin.qq.com/s/CvdeV5xgUF0kStJQdRst0w)
    - DCNN: Deep Convolutional Network Cascade for Facial Point Detection      
