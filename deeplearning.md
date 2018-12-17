@@ -7,6 +7,9 @@
    -  Dual Path Network   
    -  Deformable Convolutional Network    
    -  Deformable convnets v2 more deformable, Better Results    
+   -  Sparsely Connected Convolutional Networks    
+   -  Mixed link network   
+   
    
 ## Lightweight network
    -  Mobilenets:Efficient convlutional neural networks for mobile vision applications
