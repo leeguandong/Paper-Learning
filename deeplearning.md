@@ -3,12 +3,12 @@
    -  Dynamic Routing Between Capsules  
    -  Densely Connected Convolutional Network
    -  Sparsely Connected Convolutional Networks   
+   -  Mixed link network  
    -  Convolutional Neural Networks with Alternately Updated Clique   
    -  Dual Path Network   
    -  Deformable Convolutional Network    
    -  Deformable convnets v2 more deformable, Better Results    
-   -  Sparsely Connected Convolutional Networks    
-   -  Mixed link network   
+      
    
    
 ## Lightweight network
