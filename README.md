@@ -94,6 +94,7 @@ Object Detection
   -  Feature Pyramid Networks for Object Detection   
   -  Mask R-CNN       
   -  Speed/accuracy trade-offs for modern convolutional objects detectors     
+  -  Scale-Transferrable Object Detection    
   -  改进的YOLOV3遥感图像飞机识别应用     
   -  基于深度视感知学习的目标检测算法与应用研究   
   -  深度卷积网络卫星图像水泥厂目标检测    
@@ -103,6 +104,10 @@ Object Detection
   -  Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban Remote Sensing Images Using Deep Convolutional Neural Networks   
   -  Fully convolutional networks for semantic segmentation    
   -  CRSNet: Dilated Convolutional Neural Networks for Underatanding the Highly Congested Scenes    
+  -  SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation    
+  -  SEMANTIC IMAGE SEGMENTATION WITH DEEP CONVOLUTIONAL NETS AND FULLY CONNECTED CRFS    
+  -  Pyramid Scene Parsing Network  
+  
       
 Others     
   -  Dropout: A Simple Way to Prevent Neural Networks from Overfitting     
