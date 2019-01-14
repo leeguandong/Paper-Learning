@@ -55,6 +55,8 @@
 #### Pooling
    - Roi pooling     
    - Roi Align   
+   - PrRoi pooling  
+   
    
    
 #### Model hyperparameter selection
