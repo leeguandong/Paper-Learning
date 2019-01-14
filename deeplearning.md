@@ -8,7 +8,8 @@
    -  Dual Path Network   
    -  Deformable Convolutional Network    
    -  Deformable convnets v2 more deformable, Better Results    
-      
+   -  Total Recall Understanding traffic signs using deep hierarchical convolutional neural network     
+   -  
    
    
 ## Lightweight network
@@ -17,11 +18,17 @@
    -  EffNet: An efficient structure for convolutional neural network    
    -  Skipnet: Learning Dynamic rounting in convolutional network
 
-## Embedded network
+## Attention
    - SENet:Squeeze-and-Excitation Network   
    - Non-local Neural Networks      
    - DFL: Learning a Discriminative Filter Bank within a CNN for Fine-grained Recognition     
    - CCNet: Criss-Cross Attention for Semantic Segmention     
+   - Attention is all you need     
+   - CBAM: Convolutional Block Attwnrion Module    
+   - Dual attention network for scene segmentation     
+   - Residual Attention network for image classification   
+   - 
+   
      
 ## Network component
 #### Dropout
