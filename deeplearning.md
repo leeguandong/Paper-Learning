@@ -31,7 +31,8 @@
    - CBAM: Convolutional Block Attwnrion Module    
    - Dual attention network for scene segmentation     
    - Residual Attention network for image classification   
-   - 
+   - Triple Attention Mixed Link Network for Single Image Super Resolution   
+   
    
      
 ## Network component
