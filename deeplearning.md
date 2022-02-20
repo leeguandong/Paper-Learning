@@ -13,78 +13,46 @@
    -  [yolov4:optimal speed and accuracy of object detection](https://blog.csdn.net/u012193416/article/details/122108427)
    -  [yolov5](https://blog.csdn.net/u012193416/article/details/122131557?spm=1001.2014.3001.5501)
    -  [yolox：exceeding yolo series in 2021](https://blog.csdn.net/u012193416/article/details/122195873?spm=1001.2014.3001.5501)
-
-
+   -  
 
 ## Network structure and Classification
 
    - Dynamic Routing Between Capsules  
-
    - [Densely Connected Convolutional Network](https://blog.csdn.net/u012193416/article/details/121261579)
-
    - Sparsely Connected Convolutional Networks   
-
    - Mixed link network  
-
    - Convolutional Neural Networks with Alternately Updated Clique   
-
    - Dual Path Network   
-
    - Deformable Convolutional Network    
-
    - Deformable convnets v2 more deformable, Better Results    
-
    - Total Recall Understanding traffic signs using deep hierarchical convolutional neural network     
-
    - [attention is all you need](https://blog.csdn.net/u012193416/article/details/121013233)
-
    - [Swin Transformer: Hierarchical Vision Transformer using Shifted Windows](https://blog.csdn.net/u012193416/article/details/121123485)
-
    - [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](https://blog.csdn.net/u012193416/article/details/121128715?spm=1001.2014.3001.5501)
-
    - [Tokens-to-Token ViT: Training Vision Transformers from Scratch on ImageNet](https://blog.csdn.net/u012193416/article/details/121143693?spm=1001.2014.3001.5501)
-
    - [EfficientNet: Rethinking Model Scaling for Convolutional Neural](https://blog.csdn.net/u012193416/article/details/121244997)
-
    - [Deep Residual Learning for Image Recognition](https://blog.csdn.net/u012193416/article/details/121251480)
-
    - [Res2Net: A New Multi-scale Backbone Architecture](https://blog.csdn.net/u012193416/article/details/121270765)
-
    - [ResNeSt：Split-Attention Networks](https://blog.csdn.net/u012193416/article/details/121283689)
-
    - [rethinking imagenet pre-training](https://blog.csdn.net/u012193416/article/details/121632017)
-
    - [when does label smoothing help?](https://blog.csdn.net/u012193416/article/details/121656057)
-
    - [label confusion learning to enhance text classification models](https://blog.csdn.net/u012193416/article/details/121663526)
-
    - [bag of tricks for image classification with convolutional neural networks](https://blog.csdn.net/u012193416/article/details/121696998)
-
    - [asymmetric loss for multi-label classification](https://blog.csdn.net/u012193416/article/details/121751084)
-
    - [mixup:beyond empirical risk minimization](https://blog.csdn.net/u012193416/article/details/121860215)
-
-     
+   - 
 
 
 ## Lightweight network
    - Mobilenets:Efficient convlutional neural networks for mobile vision applications
-
    - [Mobilenet v2:Inverted Residuals and Linear Bottlenecks Mobile Networks for Classification,Detection and Segmentation](https://blog.csdn.net/u012193416/article/details/121291546)
-
    - EffNet: An efficient structure for convolutional neural network    
-
    - Skipnet: Learning Dynamic rounting in convolutional network    
-
    - Shufflenet   
-
    - shufflenet V2
-
    - Xception 
-
    - [GhostNet: More Features from Cheap Operations](https://blog.csdn.net/u012193416/article/details/121305626)
-
-     
+   - 
 
 ## Attention
    - SENet:Squeeze-and-Excitation Network   
