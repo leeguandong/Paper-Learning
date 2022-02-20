@@ -144,5 +144,31 @@ Books
   -  深度学习     
   -   数字图像处理   
 
+Our works
+
+  -   [Multi-scale dense networks for hyperspectral remote sensing image classification](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=on_b6MMAAAAJ&citation_for_view=on_b6MMAAAAJ:UeHWp8X0CEIC)
+  -   [Three-dimensional densely connected convolutional network for hyperspectral remote sensing image classification](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=on_b6MMAAAAJ&citation_for_view=on_b6MMAAAAJ:2osOgNQ5qMEC)  
+  -   [Hyperspectral remote sensing image classification using three-dimensional-squeeze-and-excitation-DenseNet (3D-SE-DenseNet)](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=on_b6MMAAAAJ&citation_for_view=on_b6MMAAAAJ:qjMakFHDy7sC)
+  -   [Deep feature aggregation network for hyperspectral remote sensing image classification](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=on_b6MMAAAAJ&citation_for_view=on_b6MMAAAAJ:IjCSPb-OGe4C)
+  -   [Scene classification of high-resolution remote sensing image using transfer learning with multi-model feature extraction framework](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=on_b6MMAAAAJ&citation_for_view=on_b6MMAAAAJ:d1gkVwhDpl0C)
+  -   [Faster hyperspectral image classification based on selective kernel mechanism using deep convolutional networks](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=on_b6MMAAAAJ&citation_for_view=on_b6MMAAAAJ:YsMSGLbcyi4C)
+  -   [A non-local capsule neural network for hyperspectral remote sensing image classification](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2020.1864052)
+  -   [Hyperspectral Remote Sensing Image Classification Using Deep Convolutional Capsule Network](https://ieeexplore.ieee.org/abstract/document/9514617/)
+  -   [卷积神经网络迁移的高分影像场景分类学习](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=on_b6MMAAAAJ&citation_for_view=on_b6MMAAAAJ:Tyk-4Ss8FVUC)
+  -   [双卷积池化结构的 3D-CNN 高光谱遥感影像分类方法](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=on_b6MMAAAAJ&citation_for_view=on_b6MMAAAAJ:zYLM7Y9cAGgC)
+  -   [基于深度学习的高光谱遥感影像分类技术研究](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=on_b6MMAAAAJ&citation_for_view=on_b6MMAAAAJ:Y0pCki6q_DkC)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
