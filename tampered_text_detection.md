@@ -16,7 +16,23 @@
 - An Improved Splicing Localization Method by Fully Convolutional Networks (RPN)
 - Image forgery localization based on multi-scale convolutional neural networks
 - [Deep fusion network for splicing forgery localization](https://openaccess.thecvf.com/content_ECCVW_2018/papers/11130/Liu_Deep_fusion_network_for_splicing_forgery_localization_ECCVW_2018_paper.pdf)
-- 
+- [Fighting Fake News: Image Splice Detection via Learned self-consistency](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-67.pdf)
+- [Generate, Segment and Replace: Towards Generic Manipulation Segmentation](https://arxiv.org/pdf/1811.09729v1)
+- [Deep Matching and Validation Network: An End-to-End Solution to Constrained Image Splicing Localization and Detection](https://arxiv.org/pdf/1705.09765.pdf)
+- Image Copy-Move Forgery Detection via an End-to-End Deep Neural Network
+- Copy-move forgery detection based on deep learning
+- [BusterNet: Detecting Copy-Move Image Forgery with source/target localization](https://openaccess.thecvf.com/content_ECCV_2018/papers/Rex_Yue_Wu_BusterNet_Detecting_Copy-Move_ECCV_2018_paper.pdf)
+- [Detection and Localization of Image Forgeries using resampling features and deep learning](https://vision.ece.ucsb.edu/sites/vision.ece.ucsb.edu/files/publications/2017_04_cvpr_mediaforensics_workshop.pdf)
+- [Learning Rich Features for Image Manipulation Detection](https://paperswithcode.com/paper/learning-rich-features-for-image-manipulation)
+- [CNN-Generated Images Are Surprisingly Easy to Spot for now](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_CNN-Generated_Images_Are_Surprisingly_Easy_to_Spot..._for_Now_CVPR_2020_paper.pdf)
+- [Detecting Photoshopped Faces by Scripting Photoshop](https://paperswithcode.com/paper/detecting-photoshopped-faces-by-scripting)
+- [Image Manipulation Detection by Multi-View Multi-Scale Supervision](https://paperswithcode.com/paper/image-manipulation-detection-by-multi-view)
+- [RRU-Net: The Ringed Residual U-Net for Image Splicing Forgery Detection](https://paperswithcode.com/paper/rru-net-the-ringed-residual-u-net-for-image)
+- [Hybrid LSTM and Encoder-Decoder Architecture for Detection of Image Forgeries](https://paperswithcode.com/paper/hybrid-lstm-and-encoder-decoder-architecture)
+- [Learning JPEG Compression Artifacts for Image Manipulation Detection and Localization](https://paperswithcode.com/paper/learning-jpeg-compression-artifacts-for-image)
+- [TamperNN: Efficient Tampering Detection of Deployed Neural Nets](https://paperswithcode.com/paper/tampernn-efficient-tampering-detection-of)
+
+
 
 
 
@@ -43,6 +59,7 @@
 ## Datasets
 
 - [PS Battles](https://cs.paperswithcode.com/paper/180404866)
+- 
 
 
 
