@@ -73,6 +73,6 @@
 
 ## Application
 
-- https://github.com/tezignlab
+- [tezignlab](https://github.com/tezignlab)
 - [AI技术在智能海报设计中的应用](https://tech.meituan.com/2018/12/27/ai-in-banner-design.html)
 - 
