@@ -1,7 +1,6 @@
 ## Anti-spoofing
 
 - [FDFtNet: Facing Off Fake Images using Fake Detection Fine-tuning Network](https://github.com/cutz-j/FDFtNet)
-- [Detecting CNN-Generated Images](Detecting CNN-Generated Images)
 - [Face X-Ray for More General Face Forgery Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Face_X-Ray_for_More_General_Face_Forgery_Detection_CVPR_2020_paper.pdf)
 - [Learning Generalized Spoof Cues for Face Anti-spoofing](https://github.com/Podidiving/lgsc-for-fas-pytorch)
 - [minivision-ai Silent face anti spoofing](https://github.com/minivision-ai/Silent-Face-Anti-Spoofing)
