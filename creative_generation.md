@@ -4,6 +4,7 @@
 - [GRIDS: Interactive Layout Design with Integer Programming](https://github.com/aalto-ui/GRIDS)
 - [Content-aware generative modeling of graphic design layouts](https://github.com/tezignlab/LayoutNet-TF2)
 - Layout Style Modeling for Automating Banner Design
+- [智能多媒体内容设计在阿里巴巴的应用](http://idi.zju.edu.cn/wp-content/uploads/2020/11/59a1dff68908308effc05fb811f9b0ed.pdf)   
 - 
 
 
