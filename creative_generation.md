@@ -5,6 +5,9 @@
 - [Content-aware generative modeling of graphic design layouts](https://github.com/tezignlab/LayoutNet-TF2)
 - Layout Style Modeling for Automating Banner Design
 - [智能多媒体内容设计在阿里巴巴的应用](http://idi.zju.edu.cn/wp-content/uploads/2020/11/59a1dff68908308effc05fb811f9b0ed.pdf)   
+- 设计智能研究综述：进展、问题和挑战
+- Stylized Adversarial AutoEncoder for Image Generation
+- Vinci An Intelligent Graphic Design System for Generating advertising posters
 - 
 
 
@@ -24,6 +27,7 @@
 - [A Tutorial on Thompson Sampling](https://github.com/iosband/ts_tutorial)
 - [ads strategy reinforcement learning](https://github.com/lucko515/ads-strategy-reinforcement-learning)
 - [The Multi-Armed Bandit Problem and Its Solutions](https://github.com/lilianweng/multi-armed-bandit)
+- Thompson Sampling for Contextual Bandits with Linear Payoffs
 - 
 
 
@@ -99,6 +103,15 @@
 - [Personalized Context-Aware Re-ranking for E-commerce Recommendation Systems](https://github.com/rec-agent/drr)
 - [Context-Aware Learning to Rank with Self-Attention](https://github.com/allegro/allRank)
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](https://github.com/zsbluesky/CSCNN)
+- [Representation Learning-Assisted Click-Through Rate Prediction](https://github.com/oywtece/deepmcp)
+- [Image Feature Learning for Cold Start Problem in Display Advertising](https://www.ijcai.org/Proceedings/15/Papers/524.pdf)
+- [Learning a Deep Listwise Context Model for Ranking Refinement](https://arxiv.org/abs/1804.05936)
+- [Learning to Rank: From Pairwise Approach to Listwise Approach](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/tr-2007-40.pdf)
+- [Query-Dependent Image Re-Ranking Using Click Data](http://manikvarma.org/pubs/jain11.pdf)
+- [NeuralNDCG: Direct Optimisation of a Ranking Metric via Differentiable Relaxation of Sorting](https://arxiv.org/abs/2102.07831)
+- [Personalized Re-ranking for Recommendation](https://arxiv.org/abs/1904.06813)
+- [Privileged Features Distillation at Taobao Recommendations](https://arxiv.org/abs/1907.05171)
+- [PT-Ranking:A Benchmarking Platform for Neural Learning-to-Rank](https://github.com/wildltr/ptranking)
 - 
 
 
