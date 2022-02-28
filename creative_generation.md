@@ -76,6 +76,7 @@
 - [alpha matting evaluation website](http://www.alphamatting.com/eval_25.php)
 - [Real-Time High-Resolution Background Matting](https://github.com/PeterL1n/BackgroundMattingV2)
 - [Boundary-Aware Segmentation Network for Mobile and Web Applications](https://github.com/xuebinqin/BASNet)
+- [remove.bg](https://www.remove.bg/zh)   
 - 
 
 
