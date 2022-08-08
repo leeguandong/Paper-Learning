@@ -8,6 +8,9 @@
 - 设计智能研究综述：进展、问题和挑战
 - Stylized Adversarial AutoEncoder for Image Generation
 - Vinci An Intelligent Graphic Design System for Generating advertising posters
+- [Joint Optimization of Ad Ranking and Creative Selection](https://zhuanlan.zhihu.com/p/548568176)      
+- [Towards Personalized Bundle Creative Generation with Contrastive Non-Autoregressive Decoding](https://dl.acm.org/doi/abs/10.1145/3477495.3531909)
+- [CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning](https://zhuanlan.zhihu.com/p/526467469)
 - 
 
 
@@ -76,7 +79,6 @@
 - [alpha matting evaluation website](http://www.alphamatting.com/eval_25.php)
 - [Real-Time High-Resolution Background Matting](https://github.com/PeterL1n/BackgroundMattingV2)
 - [Boundary-Aware Segmentation Network for Mobile and Web Applications](https://github.com/xuebinqin/BASNet)
-- [remove.bg](https://www.remove.bg/zh)   
 - 
 
 
