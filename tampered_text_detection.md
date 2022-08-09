@@ -10,7 +10,7 @@
 - [FeatherNets: Convolutional Neural Networks as Light as Feather for Face Anti-spoofing](https://github.com/SoftwareGift/FeatherNets_Face-Anti-spoofing-Attack-Detection-Challenge-CVPR2019)
 - [Patch-based Methods for Face Anti-spoofing](https://github.com/SeuTao/CVPR19-Face-Anti-spoofing)
 - [On Usage of Autoencoders and Siamese Networks for Online Handwritten Signature Verification](https://github.com/kahrabian/signature_verification)
-- 
+- [Thinking in Frequency: Face Forgery Detection by Mining Frequency-aware Clues](https://blog.csdn.net/u012193416/article/details/125015835?spm=1001.2014.3001.5501)
 
 
 
@@ -52,6 +52,7 @@
 - [A Deep Learning Approach to Detection of Splicing and Copy-Move Forgeries in Images](https://github.com/kPsarakis/Image-Forgery-Detection-CNN)
 - [SigNet: Convolutional Siamese Network for Writer Independent Offline Signature Verification](https://github.com/sounakdey/SigNet)
 - [Learning representations for Offline Handwriten Signature verification](https://github.com/luizgh/sigver) 
+- [Image Manipulation Detection by Multi-View Multi-Scale Supervision](https://blog.csdn.net/u012193416/article/details/124269923?spm=1001.2014.3001.5501)
 - 
 
 

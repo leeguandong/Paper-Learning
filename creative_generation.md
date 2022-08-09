@@ -8,10 +8,21 @@
 - 设计智能研究综述：进展、问题和挑战
 - Stylized Adversarial AutoEncoder for Image Generation
 - Vinci An Intelligent Graphic Design System for Generating advertising posters
-- [Joint Optimization of Ad Ranking and Creative Selection](https://zhuanlan.zhihu.com/p/548568176)      
-- [Towards Personalized Bundle Creative Generation with Contrastive Non-Autoregressive Decoding](https://dl.acm.org/doi/abs/10.1145/3477495.3531909)
-- [CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning](https://zhuanlan.zhihu.com/p/526467469)
+- [constrained graphic layout generation via latent optimization](https://blog.csdn.net/u012193416/article/details/125722049?spm=1001.2014.3001.5501)
+- [layoutgan：generating graphic layouts with wiregrame discriminators](https://blog.csdn.net/u012193416/article/details/125716540?spm=1001.2014.3001.5501)
+- [Composition-aware Graphic Layout GAN for Visual-textual Presentation Designs](https://zhuanlan.zhihu.com/p/548482018)
 - 
+
+
+
+
+
+## Creative generation
+
+- [zero-shot text-to-image generation](https://blog.csdn.net/u012193416/article/details/126108145?spm=1001.2014.3001.5501)
+- [hierarchical text-conditional image generation with clip](https://blog.csdn.net/u012193416/article/details/126162618?spm=1001.2014.3001.5501)
+- 
+
 
 
 
@@ -31,7 +42,9 @@
 - [ads strategy reinforcement learning](https://github.com/lucko515/ads-strategy-reinforcement-learning)
 - [The Multi-Armed Bandit Problem and Its Solutions](https://github.com/lilianweng/multi-armed-bandit)
 - Thompson Sampling for Contextual Bandits with Linear Payoffs
-- 
+- [Joint Optimization of Ad Ranking and Creative Selection](https://zhuanlan.zhihu.com/p/548568176)      
+- [Towards Personalized Bundle Creative Generation with Contrastive Non-Autoregressive Decoding](https://dl.acm.org/doi/abs/10.1145/3477495.3531909)
+- [CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning](https://zhuanlan.zhihu.com/p/526467469)
 
 
 
@@ -119,7 +132,29 @@
 
 
 
+## GPT
 
+- [CPM:A large-scale generative chinese pre-trained lanuage model](https://blog.csdn.net/u012193416/article/details/126040727?spm=1001.2014.3001.5501)
+- [bert:pre-training of deep bidirectional transformers for language understanding](https://blog.csdn.net/u012193416/article/details/125344316?spm=1001.2014.3001.5501)
+
+
+
+## Mutimodel
+
+- [clip:learning transferable visual models from natural language supervision](https://blog.csdn.net/u012193416/article/details/125891924?spm=1001.2014.3001.5501)
+- [lxmert:learning cross-modality encoder representations from transformers](https://blog.csdn.net/u012193416/article/details/125349363?spm=1001.2014.3001.5501)
+
+
+
+## GAN
+
+- [singan:learning a generative model from a single natural image](https://blog.csdn.net/u012193416/article/details/125558033?spm=1001.2014.3001.5501)
+- [cyclegan:unpaired image-to-image translation using cycle-consistent adversarial network](https://blog.csdn.net/u012193416/article/details/125439652?spm=1001.2014.3001.5501)
+- [biggan:large scale gan training for high fidelity natural image synthesis](https://blog.csdn.net/u012193416/article/details/125415579?spm=1001.2014.3001.5501)
+- [stylegan3：alias-free generative adversarial networks](https://blog.csdn.net/u012193416/article/details/125405814?spm=1001.2014.3001.5501)
+- [stylegan2：analyzing and improving the image quality of stylegan](https://blog.csdn.net/u012193416/article/details/125397689?spm=1001.2014.3001.5501)
+- [stylegan1: a style-based henerator architecture for gemerative adversarial networks](https://blog.csdn.net/u012193416/article/details/125392654?spm=1001.2014.3001.5501)
+- 
 
 
 

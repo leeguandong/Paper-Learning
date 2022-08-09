@@ -178,5 +178,7 @@
    - [Plant Seedlings Classification](https://www.kaggle.com/c/plant-seedlings-classification)            393/836
    - [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)        632/4648
    - [Human Protein Atlas Image Classification](https://www.kaggle.com/c/human-protein-atlas-image-classification)       1227/1664
+   - [CVPR2022 Biometrics Workshop - Image Forgery Detection Challenge](https://tianchi.aliyun.com/competition/entrance/531954/rankingList/1)        54/674
+   - [LED灯的色彩和均匀性检测挑战赛](http://challenge.xfyun.cn/topic/info?type=color-and-uniformity&option=phb)           64/373
 
    
