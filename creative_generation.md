@@ -79,7 +79,7 @@
 
 
 
-## Image restoration
+## Image Inpainting
 
 - [Image Inpainting With Learnable Bidirectional Attention Maps](https://github.com/Vious/LBAM_Pytorch)
 
@@ -167,6 +167,8 @@
 - [浙江大学国际设计研究院](http://www.idi.zju.edu.cn/)
 - [Ad-papers](https://github.com/wzhe06/Ad-papers)
 - 
+
+## Virtual Human
 
 
 

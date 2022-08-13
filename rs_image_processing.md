@@ -1,8 +1,9 @@
 # RS Image Processing
-High resolution remote sensing imagery
+## High resolution remote sensing imagery
+**classification**
 
-  -  Deep Learning Earth Observation Classification Using ImageNet Pretrained Networks   
-  -  AID: A Benchmark Dataset for Performance Evaluation of Aerial Scene Classification    
+  -  Deep Learning Earth Observation Classification Using ImageNet Pretrained Networks  
+  -  AID: A Benchmark Dataset for Performance Evaluation of Aerial Scene Classification   
   -  A Survey on Transfer Learning
   -  How transferable are features in deep neural networks?
   -  Transfer learning using convolutional neural networks for object classification within X-ray baggage security imagery
@@ -11,15 +12,37 @@ High resolution remote sensing imagery
   -  Rethinking the Inception Architecture for Computer Vision
   -  Very deep convolutional networks for large-scale image recognition
   -  Deep Learning for Remote Sensing Data  
-  -  Novel Deep Learning Model for Traffic Sign Detection Using Capsule   
-  -  Deep Feature Fusion for VHR Remote Sensing Scene Classification    
   -  Remote Sensing Image Scene Classification Using Rearranged Local Features    
-  -  [基于卷积神经网络的图像语义分割](http://blog.csdn.net/u012193416/article/details/79326491)
-  -  [基于深度卷积神经网络的遥感影像车辆检测](http://blog.csdn.net/u012193416/article/details/79326374)
-  -  基于改进全卷积神经网络的航拍图像语义分类方法
+  -  Deep Feature Fusion for VHR Remote Sensing Scene Classification  
   -  联合显著性和多层卷积神经网络的高分影像场景分类
+  -  基于改进全卷积神经网络的航拍图像语义分类方法
 
-Hyperspectral remote sensing imagery
+**detection**
+
+  -  Novel Deep Learning Model for Traffic Sign Detection Using Capsule 
+  -  [基于深度卷积神经网络的遥感影像车辆检测](http://blog.csdn.net/u012193416/article/details/79326374)
+  -  Rich feature hierarchies for accurate object detection and semantic segmentation   
+  -  Speed/accuracy trade-offs for modern convolutional objects detectors     
+  -  Scale-Transferrable Object Detection    
+  -  改进的YOLOV3遥感图像飞机识别应用     
+  -  基于深度视感知学习的目标检测算法与应用研究   
+  -  深度卷积网络卫星图像水泥厂目标检测    
+     
+
+**segmentation** 
+
+  -  [基于卷积神经网络的图像语义分割](http://blog.csdn.net/u012193416/article/details/79326491)
+  -  U-Net Convolutional Networks for Biomedical Image Segmentation  
+  -  Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban Remote Sensing Images Using Deep Convolutional Neural Networks   
+  -  CRSNet: Dilated Convolutional Neural Networks for Underatanding the Highly Congested Scenes    
+
+
+
+
+
+
+## Hyperspectral remote sensing imagery
+**classification**
 
   -  Spectral–Spatial Classification of Hyperspectral Imagery with 3D Convolutional Neural Network
   -  Deep Feature Extraction and Classification of Hyperspectral Images Based on Convolutional Neural Networks
@@ -35,12 +58,10 @@ Hyperspectral remote sensing imagery
   -  Spectral-Spatial Classification of Hyperspectral Imagery with 3D convolution neural network
   -  Hyperspectral Remote Sensing Data Analysis and Future Challenges
   -  Deep Feature Extraction and Classification of Hyperspectral Images Based on Convolutional Neural Networks
-  -  DeepRoadMapper Extracting Road Topology from Aerial Image    
-  -  RoadTracer: Automatic Extraction of Road Networks from Aerial Images
+
   -  Dynamic Routing Between Capsules
   -  Densely Connected Convolutional Network
   -  3D Densely Connected Convolutional Network for the Recognition of Human Shopping Actions
-  -  Deep learning for semantic segmentation of remote sensing images with rich spectral content
   -  Sparsely Connected Convolutional Networks  
   -  Residual Dense Network for Image Super-Resolution    
   -  Squeeze-and-Excitation Network
@@ -62,8 +83,7 @@ Hyperspectral remote sensing imagery
   -  Convolutional LSTM network: A Machine learning Approach for Precipitation Nowcasting      
   -  Spatial Sequential Recurrent Neural Network for  Hyperspectral Image Classification     
   -  Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning  
-  -  Attention-Mechanism-Containing Neural Networks for High-Resolution Remote Sensing Image Classification   
-  -  D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction    
+  -  Attention-Mechanism-Containing Neural Networks for High-Resolution Remote Sensing Image Classification      
   -  Remote Sensing Image Scene Classification Using Rearranged Local Features    
   -  Dual-Path Network-Based Hyperspectral Image Classification     
   -  Decoupled network     
@@ -71,6 +91,10 @@ Hyperspectral remote sensing imagery
   -  EffNet: An efficient structure for convolutional neural network   
   -  Mobilenets:Efficient convlutional neural networks for mobile vision applications    
   -  Mobilenet v2:Inverted Residuals and Linear Bottlenecks Mobile Networks for Classification,Detection and Segmentation    
+  -  Dynamic Group Convolution for Accelerating Convolutional Neural Networks
+  -  FeatherNets: Convolutional Neural Networks as Light as Feather for Face Anti-spoofing
+  -  Deformable 3D Convolution for Video Super-Resolution
+  -  [Resource Efficient 3D Convolutional Neural Networks](https://arxiv.org/pdf/1904.02422.pdf)
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
@@ -81,37 +105,20 @@ Hyperspectral remote sensing imagery
   -  基于深度卷积神经网络的遥感图像处理
   -  基于卷积神经网络的高光谱数据分类方法研究
 
-Object Detection    
-  -  YoloV3     
-  -  YoloV2  
-  -  YoloV1  
-  -  SSD Single shot multibox detector   
-  -  DSSD : Deconvolutional Single Shot Detector    
-  -  Rich feature hierarchies for accurate object detection and semantic segmentation   
-  -  Fast R-CNN   
-  -  Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks    
-  -  R-FCN: Object Detection via Region-based Fully Convolutional Networks     
-  -  Feature Pyramid Networks for Object Detection   
-  -  Mask R-CNN       
-  -  Speed/accuracy trade-offs for modern convolutional objects detectors     
-  -  Scale-Transferrable Object Detection    
-  -  改进的YOLOV3遥感图像飞机识别应用     
-  -  基于深度视感知学习的目标检测算法与应用研究   
-  -  深度卷积网络卫星图像水泥厂目标检测    
-          
+**segmentation**
 
- Semantic segmentation      
-  -  U-Net Convolutional Networks for Biomedical Image Segmentation  
-  -  Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban Remote Sensing Images Using Deep Convolutional Neural Networks   
-  -  Fully convolutional networks for semantic segmentation    
-  -  CRSNet: Dilated Convolutional Neural Networks for Underatanding the Highly Congested Scenes    
-  -  SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation    
-  -  SEMANTIC IMAGE SEGMENTATION WITH DEEP CONVOLUTIONAL NETS AND FULLY CONNECTED CRFS    
-  -  Pyramid Scene Parsing Network  
-  
-      
+  - DeepRoadMapper Extracting Road Topology from Aerial Image    
 
-Others     
+  - RoadTracer: Automatic Extraction of Road Networks from Aerial Images
+
+  - Deep learning for semantic segmentation of remote sensing images with rich spectral content
+
+  - D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction
+
+    
+
+## Others     
+
   -  Dropout: A Simple Way to Prevent Neural Networks from Overfitting     
   -  Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift      
   -  Hetero-ConvLSTM: A Deep Learning Approach to Traﬀic Accident Prediction on Heterogeneous Spatio-Temporal Data   
@@ -129,14 +136,14 @@ Others
   -  连续特征离散化方法综述
                 
 
-NER location   
+## NER location   
+
   -  Bidirectional LSTM-CRF Models for Sequence Tagging  
   -  Neural Architectures for Named Entity Recognition     
   -  Character-Based LSTM-CRF with Radical-Level Features for Chinese Named Entity Recognition      
   -  Attention is all you need   
 
-
-Books 
+## Books 
 
   -  解析卷积神经网络 - 深度学习实践手册
   -  Tensorflow实战Google深度学习框架
@@ -144,7 +151,7 @@ Books
   -  深度学习     
   -   数字图像处理   
 
-Our works
+## Our works
 
   -   [Multi-scale dense networks for hyperspectral remote sensing image classification](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=on_b6MMAAAAJ&citation_for_view=on_b6MMAAAAJ:UeHWp8X0CEIC)
   -   [Three-dimensional densely connected convolutional network for hyperspectral remote sensing image classification](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=on_b6MMAAAAJ&citation_for_view=on_b6MMAAAAJ:2osOgNQ5qMEC)  
