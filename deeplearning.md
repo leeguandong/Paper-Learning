@@ -57,7 +57,7 @@
 ## Attention
    - SENet:Squeeze-and-Excitation Network   
    - Non-local Neural Networks      
-   - DFL: Learning a Discriminative Filter Bank within a CNN for Fine-grained Recognition     
+   - DFL: Learning a Discriminative Filter Bank within a CNN for Fine-grained Recognition  
    - CCNet: Criss-Cross Attention for Semantic Segmention     
    - Attention is all you need     
    - CBAM: Convolutional Block Attwnrion Module    
@@ -99,13 +99,9 @@
 
 ## Neural network essence   
    - An Information-Theoretic View for DL    
-
    - i-RevNet: Deep Invertible Networks   
-
    - Opening the black box of deep neuron network via information     
-
    - Understanding deep learning requires rethinking generalization   
-
      
 ## Face recognition
 #### [Face keypoint detection](https://mp.weixin.qq.com/s/CvdeV5xgUF0kStJQdRst0w)
@@ -119,11 +115,8 @@
 #### face recognition    
 
    - [large-margin softmax loss for convolutional neural networks](https://blog.csdn.net/u012193416/article/details/121498376)
-
    - [sphereface:deep hypersphere embedding for face recognition](https://blog.csdn.net/u012193416/article/details/121514301)
-
    - [cosface:large margin cosine loss for deep face recognition](https://blog.csdn.net/u012193416/article/details/121536854)
-
    - [arcface:additive angular margin loss for deep face recognition](https://blog.csdn.net/u012193416/article/details/121554248)
 
      
@@ -149,7 +142,6 @@
 
 ## Model fusion
    - Snapshot ensembles: Train 1, get M for free
-
    - [Averaging Weights Leads to Wider Optima and Better Generalization](https://github.com/kiudee/cs-ranking)   
 
      
@@ -167,7 +159,7 @@
 
 ## E-commerce audit
 
-   -  [O2U-Net:A simple noisy label detection approach for deep neural networks](https://blog.csdn.net/u012193416/article/details/121378160?spm=1001.2014.3001.5501)    
+   -  [O2U-Net:A simple noisy label detection approach for deep neural networks](https://blog.csdn.net/u012193416/article/details/121378160?spm=1001.2014.3001.5501)   
    -  [BBN：Bilateral-Branch network with cumulative learning for long-tailed visual recognition](https://blog.csdn.net/u012193416/article/details/121383401)
 
 
