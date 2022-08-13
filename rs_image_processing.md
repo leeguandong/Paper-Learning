@@ -58,7 +58,6 @@
   -  Spectral-Spatial Classification of Hyperspectral Imagery with 3D convolution neural network
   -  Hyperspectral Remote Sensing Data Analysis and Future Challenges
   -  Deep Feature Extraction and Classification of Hyperspectral Images Based on Convolutional Neural Networks
-
   -  Dynamic Routing Between Capsules
   -  Densely Connected Convolutional Network
   -  3D Densely Connected Convolutional Network for the Recognition of Human Shopping Actions
@@ -70,7 +69,7 @@
   -  Hyperspectral Image Classification with Deep Feature Fusion Network  
   -  Recent Advances on Spectral-Spatial Hyperspectral Image Classification: An Overview and New Guidelines  
   -  Diracnets Training very deep neural networks without skip-connections    
-  -  Deformable Convolutional Neural Networks for Hyperspectral Image Classification     
+  -  Deformable Convolutional Neural Networks for Hyperspectral Image Classification    
   -  Non-local Neural Networks   
   -  Convolutional Neural Networks with Alternately Updated Clique     
   -  DenseNet-Based Depth-Width Double Reinforced Deep Learning Neural Network for High-Resolution Remote Sensing Image Per-Pixel Classification   
@@ -81,7 +80,7 @@
   -  HSI-CNN:A Novel Convolution Neural Network for Hyperspectral Image     
   -  Bidierctional-Convolutional LSTM Based Spectral-Spatial Feature Learning for Hyperspectral Image Classification   
   -  Convolutional LSTM network: A Machine learning Approach for Precipitation Nowcasting      
-  -  Spatial Sequential Recurrent Neural Network for  Hyperspectral Image Classification     
+  -  Spatial Sequential Recurrent Neural Network for  Hyperspectral Image Classification   
   -  Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning  
   -  Attention-Mechanism-Containing Neural Networks for High-Resolution Remote Sensing Image Classification      
   -  Remote Sensing Image Scene Classification Using Rearranged Local Features    
@@ -108,13 +107,9 @@
 **segmentation**
 
   - DeepRoadMapper Extracting Road Topology from Aerial Image    
-
   - RoadTracer: Automatic Extraction of Road Networks from Aerial Images
-
   - Deep learning for semantic segmentation of remote sensing images with rich spectral content
-
   - D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction
-
     
 
 ## Others     

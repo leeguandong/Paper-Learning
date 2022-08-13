@@ -82,6 +82,8 @@
 ## Image Inpainting
 
 - [Image Inpainting With Learnable Bidirectional Attention Maps](https://github.com/Vious/LBAM_Pytorch)
+- [self-supervised text erasing with controllable image synthesis](https://blog.csdn.net/u012193416/article/details/126288661?spm=1001.2014.3001.5502)
+- 
 
 
 
