@@ -90,10 +90,10 @@
   -  EffNet: An efficient structure for convolutional neural network   
   -  Mobilenets:Efficient convlutional neural networks for mobile vision applications    
   -  Mobilenet v2:Inverted Residuals and Linear Bottlenecks Mobile Networks for Classification,Detection and Segmentation    
-  -  Dynamic Group Convolution for Accelerating Convolutional Neural Networks
   -  FeatherNets: Convolutional Neural Networks as Light as Feather for Face Anti-spoofing
   -  Deformable 3D Convolution for Video Super-Resolution
   -  [Resource Efficient 3D Convolutional Neural Networks](https://arxiv.org/pdf/1904.02422.pdf)
+  -  [Dynamic Group Convolution for Accelerating Convolutional Neural Networks](https://github.com/zhuogege1943/dgc)https://github.com/zhuogege1943/dgc
   -  [从摄影测量到计算机视觉](http://blog.csdn.net/u012193416/article/details/79326355)
   -  [高光谱遥感数据光谱特征的提取与应用](http://blog.csdn.net/u012193416/article/details/79326332)
   -  [高光谱遥感图像空谱联合分类方法研究](http://blog.csdn.net/u012193416/article/details/79271882)
@@ -110,7 +110,8 @@
   - RoadTracer: Automatic Extraction of Road Networks from Aerial Images
   - Deep learning for semantic segmentation of remote sensing images with rich spectral content
   - D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction
-    
+  - [ChangeFormer: A Transformer-Based Siamese Network for Change Detection](https://github.com/wgcban/ChangeFormer)
+  - [DDPM-CD: Remote Sensing Change Detection using Denoising Diffusion Probabilistic Models](https://github.com/wgcban/ddpm-cd)
 
 ## Others     
 
