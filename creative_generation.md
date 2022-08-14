@@ -69,6 +69,10 @@
 
 - [NIMA：Neural Image Assessment](https://blog.csdn.net/u012193416/article/details/120919496)
 - [Image Quality Assessment Benchmark](https://github.com/weizhou-geek/Image-Quality-Assessment-Benchmark)
+- [Image Quality Assessment](https://github.com/idealo/image-quality-assessment)
+- [图像美学质量评价技术发展趋势](https://www.sohu.com/a/237649791_650021)
+- [Image Aesthetics Assessment](https://paperswithcode.com/search?q_meta=&q_type=&q=Image+Aesthetics+Assessment)
+- [Image Aesthetics Assessment Using Graph Attention Network](https://github.com/koustav123/aesthetics_assessment_using_graphs)
 - 
 
 
@@ -83,9 +87,6 @@
 
 - [Image Inpainting With Learnable Bidirectional Attention Maps](https://github.com/Vious/LBAM_Pytorch)
 - [self-supervised text erasing with controllable image synthesis](https://blog.csdn.net/u012193416/article/details/126288661?spm=1001.2014.3001.5502)
-- 
-
-
 
 
 
@@ -172,8 +173,19 @@
 
 ## Virtual Human
 
+**语音驱动**
 
+- Audio-Driven facial animation by joint end-to-end learning of pose and emotion
+- MakeItTalk:Speaker-Aware Talking-Head Animation
+- [Capture, Learning, and Synthesis of 3D Speaking Styles](https://github.com/TimoBolkart/voca)
+- [MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement](https://github.com/facebookresearch/meshtalk)
+- [FaceFormer: Speech-Driven 3D Facial Animation with Transformers](https://github.com/EvelynFan/FaceFormer)
+- [Facegood Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face)
+- 
 
+**视频驱动**
+- paddlebobo
+- 
 
 
 ## Dataset
