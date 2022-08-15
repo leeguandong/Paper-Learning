@@ -27,3 +27,9 @@
 - [Multimedia Systems](http://www.letpub.com.cn/index.php?journalid=6011&page=journalapp&view=detail) Q4
 - [International journal of pattern recognition and artificial intelligence](http://www.letpub.com.cn/index.php?journalid=3842&page=journalapp&view=detail) Q4
 - [Applied Artificial Intelligence](http://www.letpub.com.cn/index.php?journalid=718&page=journalapp&view=detail) Q4
+
+
+
+## publishing
+
+- 
