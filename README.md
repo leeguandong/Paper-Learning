@@ -19,12 +19,13 @@
 - [International Journal of Remote Sensing](http://www.letpub.com.cn/index.php?journalid=3875&page=journalapp&view=detail) Q4  Taylor Francis  429
 - [IEEE Geoscience and Remote Sensing Letters](http://www.letpub.com.cn/index.php?journalid=3328&page=journalapp&view=detail) Q4    921
 - [Journal of the Indian Society of Remote  Sensing](http://www.letpub.com.cn/index.php?journalid=5302&page=journalapp&view=detail) Q4 Springer 1.894   181
+- [Knowledge-Based Systems](https://www.letpub.com.cn/index.php?journalid=5495&page=journalapp&view=detail) Q2 Elsevier 8.139 948
 - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)  Q1   1403
 - [Applied Intelligence](http://www.letpub.com.cn/index.php?journalid=737&page=journalapp&view=detail) Q2   839
-- [International Journal of Multimedia Information Retrieval](https://www.springer.com/journal/13735)    Q3    Springer    3.205   19
+- [International Journal of Multimedia Information Retrieval](https://www.springer.com/journal/13735)    Q3    Springer    3.205   19  pass
 - [Journal of Visual Communication and Image Representation](http://www.letpub.com.cn/index.php?journalid=5437&page=journalapp&view=detail)    Q3   233
 - [Computer vision and image understanding](http://www.letpub.com.cn/index.php?journalid=1998&page=journalapp&view=detail)   Q3   107
-- [Multimedia Tools and Applications](https://www.springer.com/journal/11042)  Q4  Springer 2.577  1397
+- [Multimedia Tools and Applications](https://www.springer.com/journal/11042)  Q4  Springer 2.577  1397  rs也可以投
 - [Multimedia Systems](https://www.springer.com/journal/530) Q4 Springer 2.603  136
 - [International journal of pattern recognition and artificial intelligence](http://www.letpub.com.cn/index.php?journalid=3842&page=journalapp&view=detail) Q4   221
 - [Applied Artificial Intelligence](http://www.letpub.com.cn/index.php?journalid=718&page=journalapp&view=detail) Q4  128
@@ -40,3 +41,9 @@
 - [预印本出版商支持](https://www.sohu.com/a/413098060_100191228?qq-pf-to=pcqq.group)
 - [Taylor Francis](https://www.tandfonline.com/action/authorSubmission?journalCode=tres20&page=instructions#.V30JYWOtZOo)  
 - SPIE
+- 
+
+##  Conference
+
+- 2022 2nd International Conference on Advances in Optics and Computational Sciences (AOCS 2022)
+- 

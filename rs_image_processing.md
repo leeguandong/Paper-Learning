@@ -35,8 +35,12 @@
   -  U-Net Convolutional Networks for Biomedical Image Segmentation  
   -  Semantic Segmentation of Small Objects and Modeling of Uncertainty in Urban Remote Sensing Images Using Deep Convolutional Neural Networks   
   -  CRSNet: Dilated Convolutional Neural Networks for Underatanding the Highly Congested Scenes    
-
-
+  -  DeepRoadMapper Extracting Road Topology from Aerial Image    
+  -  RoadTracer: Automatic Extraction of Road Networks from Aerial Images
+  -  Deep learning for semantic segmentation of remote sensing images with rich spectral content
+  -  D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction
+  -  [ChangeFormer: A Transformer-Based Siamese Network for Change Detection](https://github.com/wgcban/ChangeFormer)
+  -  [DDPM-CD: Remote Sensing Change Detection using Denoising Diffusion Probabilistic Models](https://github.com/wgcban/ddpm-cd)
 
 
 
@@ -106,12 +110,29 @@
 
 **segmentation**
 
-  - DeepRoadMapper Extracting Road Topology from Aerial Image    
-  - RoadTracer: Automatic Extraction of Road Networks from Aerial Images
-  - Deep learning for semantic segmentation of remote sensing images with rich spectral content
-  - D-LinkNet: LinkNet with Pretrained Encoder and Dilated Convolution for High Resolution Satellite Imagery Road Extraction
-  - [ChangeFormer: A Transformer-Based Siamese Network for Change Detection](https://github.com/wgcban/ChangeFormer)
-  - [DDPM-CD: Remote Sensing Change Detection using Denoising Diffusion Probabilistic Models](https://github.com/wgcban/ddpm-cd)
+  - 
+
+**image denoising**
+
+- 
+
+**change detection**
+
+- 
+
+**super resolution **
+
+- Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery
+- 
+
+**unmixing**
+
+- [Cross-Attention in Coupled Unmixing Nets for Unsupervised Hyperspectral Super-Resolution](https://arxiv.org/pdf/2007.05230.pdf)
+- 
+
+
+
+
 
 ## Others     
 
