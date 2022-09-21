@@ -19,6 +19,7 @@
 - [International Journal of Remote Sensing](http://www.letpub.com.cn/index.php?journalid=3875&page=journalapp&view=detail) Q4  Taylor Francis  429
 - [IEEE Geoscience and Remote Sensing Letters](http://www.letpub.com.cn/index.php?journalid=3328&page=journalapp&view=detail) Q4    921
 - [Journal of the Indian Society of Remote  Sensing](http://www.letpub.com.cn/index.php?journalid=5302&page=journalapp&view=detail) Q4 Springer 1.894   181
+- [International Journal of Applied Earth Observation and Geoinformation](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation) Q2 EI 7.672 444
 - [Knowledge-Based Systems](https://www.letpub.com.cn/index.php?journalid=5495&page=journalapp&view=detail) Q2 Elsevier 8.139 948
 - [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)  Q1   1403
 - [Applied Intelligence](http://www.letpub.com.cn/index.php?journalid=737&page=journalapp&view=detail) Q2   839

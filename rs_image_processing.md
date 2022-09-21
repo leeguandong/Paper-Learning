@@ -114,21 +114,46 @@
 
 **image denoising**
 
+- https://paperswithcode.com/task/hyperspectral-image-denoising
+- https://github.com/helmholtz-ai-energy/hyde
+- [Attention-Based Octave Network for Hyperspectral Image Denoising](https://github.com/LbzSteven/AODN)
 - 
 
 **change detection**
 
+- [Local and Global Feature Learning With Kernel Scale-Adaptive Attention Network for VHR Remote Sensing Change Detection](https://ieeexplore.ieee.org/abstract/document/9865145/)
 - 
 
 **super resolution **
 
 - Learning Spatial-Spectral Prior for Super-Resolution of Hyperspectral Imagery
-- 
+- [Symmetrical Feature Propagation Network for Hyperspectral Image Super-Resolution](https://ieeexplore.ieee.org/abstract/document/9874913/)
 
 **unmixing**
 
 - [Cross-Attention in Coupled Unmixing Nets for Unsupervised Hyperspectral Super-Resolution](https://arxiv.org/pdf/2007.05230.pdf)
+- [Multi-stage convolutional autoencoder network for hyperspectral unmixing](https://www.sciencedirect.com/science/article/pii/S1569843222001728)
+- [HapkeCNN: Blind Nonlinear Unmixing for Intimate Mixtures Using Hapke Model and Convolutional Neural Network](https://ieeexplore.ieee.org/abstract/document/9869671/)
+
+**reconstruction**
+
+- Deep self-supervised hyperspectral image reconstruction
+- Mask-Guided Spectral-Wise Transformer for Efficient Hyperspectral Image Reconstruction
+
+**ssl classification**
+
+- [Self-supervised Learning with Adaptive Distillation for Hyperspectral Image Classification](https://github.com/JunYue0214/SSL-for-HSI-classification)
 - 
+
+- 
+
+**pansharpening**
+
+- Hyperspectral Pansharpening with Adaptive Feature Modulation-Based Detail Injection Network
+- 
+
+
+
 
 
 
