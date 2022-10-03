@@ -25,13 +25,15 @@
 - [Applied Intelligence](http://www.letpub.com.cn/index.php?journalid=737&page=journalapp&view=detail) Q2   839
 - [International Journal of Multimedia Information Retrieval](https://www.springer.com/journal/13735)    Q3    Springer    3.205   19  pass
 - [Journal of Visual Communication and Image Representation](http://www.letpub.com.cn/index.php?journalid=5437&page=journalapp&view=detail)    Q3   233
+- 
 - [Computer vision and image understanding](http://www.letpub.com.cn/index.php?journalid=1998&page=journalapp&view=detail)   Q3   107
 - [Multimedia Tools and Applications](https://www.springer.com/journal/11042)  Q4  Springer 2.577  1397  rs也可以投
-- [Multimedia Systems](https://www.springer.com/journal/530) Q4 Springer 2.603  136
+- [Multimedia Systems](https://www.springer.com/journal/530)  Q4 Springer 2.603  136
 - [International journal of pattern recognition and artificial intelligence](http://www.letpub.com.cn/index.php?journalid=3842&page=journalapp&view=detail) Q4   221
 - [Applied Artificial Intelligence](http://www.letpub.com.cn/index.php?journalid=718&page=journalapp&view=detail) Q4  128
 - [IEEE Signal processing letters](http://www.letpub.com.cn/index.php?journalid=3353&page=journalapp&view=detail) Q3 443
 - [International journal of imaging systems and technology ](http://www.letpub.com.cn/index.php?journalid=3774&page=journalapp&view=detail)    Q4  151
+- 激光与光电子学进展  半月刊  核心 cscd
 - 
 
 
