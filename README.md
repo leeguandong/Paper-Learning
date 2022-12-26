@@ -33,8 +33,8 @@
 - [Applied Artificial Intelligence](http://www.letpub.com.cn/index.php?journalid=718&page=journalapp&view=detail) Q4  128
 - [IEEE Signal processing letters](http://www.letpub.com.cn/index.php?journalid=3353&page=journalapp&view=detail) Q3 443
 - [International journal of imaging systems and technology ](http://www.letpub.com.cn/index.php?journalid=3774&page=journalapp&view=detail)    Q4  151
-- 激光与光电子学进展  半月刊  核心 cscd
-- 
+- 激光与光电子学进展  半月刊  核心 cscd 单位好，录的快   
+- 电子测量技术  
 
 
 
