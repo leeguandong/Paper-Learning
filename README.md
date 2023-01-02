@@ -33,13 +33,12 @@
 - [IEEE Signal processing letters](http://www.letpub.com.cn/index.php?journalid=3353&page=journalapp&view=detail) Q3 443
 - [International journal of imaging systems and technology ](http://www.letpub.com.cn/index.php?journalid=3774&page=journalapp&view=detail)    Q4  151
 - 激光与光电子学进展  半月刊  核心 cscd  单位好易中
-- 电子测量技术 核心 审稿费100 单页400      
 - 光谱学与光谱分析 核心 sci 不好中
 - 测绘学报  核心
 - 测绘通报  核心
 - 测绘科学  核心
 - 电子测量与仪器学报   核心 
-- 电子测量技术 核心  
+- 电子测量技术 核心  审稿费100 单页400      
 - 仪器仪表学报 核心
 - 计算机工程  核心
 - 
