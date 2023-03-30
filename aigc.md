@@ -181,9 +181,9 @@
 
 
 
-## Virtual Human
+## Virtual Human    
 
-- Audio-Driven facial animation by joint end-to-end learning of pose and emotion
+- Audio-Driven facial animation by joint end-to-end learning of pose and emotion   
 - MakeItTalk:Speaker-Aware Talking-Head Animation
 - [Capture, Learning, and Synthesis of 3D Speaking Styles](https://github.com/TimoBolkart/voca)
 - [MeshTalk: 3D Face Animation from Speech using Cross-Modality Disentanglement](https://github.com/facebookresearch/meshtalk)
@@ -209,19 +209,12 @@
 ## Application & Blog
 
 - [tezignlab](https://github.com/tezignlab)
-
 - [AI技术在智能海报设计中的应用](https://tech.meituan.com/2018/12/27/ai-in-banner-design.html)
-
 - [DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)
-
 - [Little CMS](https://www.littlecms.com/color-engine/)
-
 - [浙江大学国际设计研究院](http://www.idi.zju.edu.cn/)
-
 - [Ad-papers](https://github.com/wzhe06/Ad-papers)
-
 - [AIGC图像生成技术](https://blog.csdn.net/u012193416/article/details/129580540?spm=1001.2014.3001.5501)
-
 - [生成式ai](https://blog.csdn.net/u012193416/article/details/129780704?spm=1001.2014.3001.5501) 
 
   
