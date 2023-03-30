@@ -13,7 +13,14 @@
    -  [yolov4:optimal speed and accuracy of object detection](https://blog.csdn.net/u012193416/article/details/122108427)
    -  [yolov5](https://blog.csdn.net/u012193416/article/details/122131557?spm=1001.2014.3001.5501)
    -  [yolox：exceeding yolo series in 2021](https://blog.csdn.net/u012193416/article/details/122195873?spm=1001.2014.3001.5501)
-   -  
+
+
+
+## Object Tracking
+
+   - [目标追踪](https://blog.csdn.net/u012193416/article/details/128530338?spm=1001.2014.3001.5501)
+
+
 
 ## Network structure and Classification
 
@@ -85,6 +92,7 @@
 #### Convolution 
    - Deformable Convolutional Network    
    - Decoupled network    
+   - [cnn动态卷积](https://blog.csdn.net/u012193416/article/details/126984431?spm=1001.2014.3001.5501)
 #### Pooling
    - Roi pooling     
    - Roi Align   

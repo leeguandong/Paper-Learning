@@ -31,7 +31,7 @@
 - [Deep Matching and Validation Network: An End-to-End Solution to Constrained Image Splicing Localization and Detection](https://arxiv.org/pdf/1705.09765.pdf)
 - Image Copy-Move Forgery Detection via an End-to-End Deep Neural Network
 - Copy-move forgery detection based on deep learning
-- [BusterNet: Detecting Copy-Move Image Forgery with source/target localization](https://openaccess.thecvf.com/content_ECCV_2018/papers/Rex_Yue_Wu_BusterNet_Detecting_Copy-Move_ECCV_2018_paper.pdf)
+- [BusterNet: Detecting Copy-Move Image Forgery with source/target localization](https://blog.csdn.net/u012193416/article/details/126630498?spm=1001.2014.3001.5501)
 - [Detection and Localization of Image Forgeries using resampling features and deep learning](https://vision.ece.ucsb.edu/sites/vision.ece.ucsb.edu/files/publications/2017_04_cvpr_mediaforensics_workshop.pdf)
 - [Learning Rich Features for Image Manipulation Detection](https://paperswithcode.com/paper/learning-rich-features-for-image-manipulation)
 - [CNN-Generated Images Are Surprisingly Easy to Spot for now](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_CNN-Generated_Images_Are_Surprisingly_Easy_to_Spot..._for_Now_CVPR_2020_paper.pdf)

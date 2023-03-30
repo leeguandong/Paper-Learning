@@ -15,15 +15,22 @@
 
 
 
-
-
 ## Creative generation
 
 - [zero-shot text-to-image generation](https://blog.csdn.net/u012193416/article/details/126108145?spm=1001.2014.3001.5501)
 - [hierarchical text-conditional image generation with clip](https://blog.csdn.net/u012193416/article/details/126162618?spm=1001.2014.3001.5501)
-- 
-
-
+- [high-resolution image synthesis with latent diffusion models](https://blog.csdn.net/u012193416/article/details/128440935?spm=1001.2014.3001.5501)
+- [Adding Conditional Control to Text-to-Image Diffusion Models](https://blog.csdn.net/u012193416/article/details/129375229?spm=1001.2014.3001.5501)
+- [lora:low-rank adaption of large language models](https://blog.csdn.net/u012193416/article/details/129427242?spm=1001.2014.3001.5501)
+- [AE/VAE/DDPM](https://blog.csdn.net/u012193416/article/details/129497373?spm=1001.2014.3001.5501)
+- [dreambooth:fine-tuning text-to-image diffusion models for subject-driven generation](https://blog.csdn.net/u012193416/article/details/129520226?spm=1001.2014.3001.5501)
+- [visual chatgpt:talking,drawing and editing with visual foundation models](https://blog.csdn.net/u012193416/article/details/129538715?spm=1001.2014.3001.5501)
+- [AIGC图像生成技术](https://blog.csdn.net/u012193416/article/details/129580540?spm=1001.2014.3001.5501)
+- [tune a video:one-shot tuning of image diffusion models for text-to-video generation](https://blog.csdn.net/u012193416/article/details/129647726?spm=1001.2014.3001.5501)
+- [ernie-vilg](https://blog.csdn.net/u012193416/article/details/129650189?spm=1001.2014.3001.5501)
+- [chain of thought prompting elicits reasoning in large language models](https://blog.csdn.net/u012193416/article/details/129652161?spm=1001.2014.3001.5501)
+- [training a helpful and harmless assistant with refinforcement learning from human feedback](https://blog.csdn.net/u012193416/article/details/129659942?spm=1001.2014.3001.5501)
+- [生成式ai](https://blog.csdn.net/u012193416/article/details/129780704?spm=1001.2014.3001.5501)
 
 
 
@@ -45,6 +52,7 @@
 - [Joint Optimization of Ad Ranking and Creative Selection](https://zhuanlan.zhihu.com/p/548568176)      
 - [Towards Personalized Bundle Creative Generation with Contrastive Non-Autoregressive Decoding](https://dl.acm.org/doi/abs/10.1145/3477495.3531909)
 - [CREATER: CTR-driven Advertising Text Generation with Controlled Pre-Training and Contrastive Fine-Tuning](https://zhuanlan.zhihu.com/p/526467469)
+- [创意优选技术](https://blog.csdn.net/u012193416/article/details/126232427?spm=1001.2014.3001.5501)
 
 
 
@@ -73,13 +81,7 @@
 - [图像美学质量评价技术发展趋势](https://www.sohu.com/a/237649791_650021)
 - [Image Aesthetics Assessment](https://paperswithcode.com/search?q_meta=&q_type=&q=Image+Aesthetics+Assessment)
 - [Image Aesthetics Assessment Using Graph Attention Network](https://github.com/koustav123/aesthetics_assessment_using_graphs)
-- 
-
-
-
-## Size expansion
-
-
+- [Rethinking Image Aesthetics Assessment:Models,Datasets and Benchmarks](https://blog.csdn.net/u012193416/article/details/126371574?spm=1001.2014.3001.5501)
 
 
 
@@ -87,6 +89,9 @@
 
 - [Image Inpainting With Learnable Bidirectional Attention Maps](https://github.com/Vious/LBAM_Pytorch)
 - [self-supervised text erasing with controllable image synthesis](https://blog.csdn.net/u012193416/article/details/126288661?spm=1001.2014.3001.5502)
+- [EraseNet:End-to-End Text Removal in the wild](https://blog.csdn.net/u012193416/article/details/126501815?spm=1001.2014.3001.5501)
+- [文字擦除技术](https://blog.csdn.net/u012193416/article/details/126402447?spm=1001.2014.3001.5501)
+- [resolution-robust large mask inpainting with fourier convolutions](https://blog.csdn.net/u012193416/article/details/128452202?spm=1001.2014.3001.5501)
 
 
 
@@ -95,9 +100,19 @@
 - [alpha matting evaluation website](http://www.alphamatting.com/eval_25.php)
 - [Real-Time High-Resolution Background Matting](https://github.com/PeterL1n/BackgroundMattingV2)
 - [Boundary-Aware Segmentation Network for Mobile and Web Applications](https://github.com/xuebinqin/BASNet)
+- [modnet:real-time trimap-free portrail matting via objective decomposition](https://blog.csdn.net/u012193416/article/details/128445516?spm=1001.2014.3001.5501)
 - 
 
 
+
+## Video
+
+- [Boundary-Aware Segmentation Network for Mobile and Web Applications](https://github.com/xuebinqin/BASNet)
+- [TSM: Temporal Shift Module for Efficient Video Understanding](https://blog.csdn.net/u012193416/article/details/127977221?spm=1001.2014.3001.5501)
+- [TimeSformer:Is Space-Time attention all you need for video understanding?](https://blog.csdn.net/u012193416/article/details/127979286?spm=1001.2014.3001.5501)
+- [BMN：Boundary-matching network for temporal action proposal generation](https://blog.csdn.net/u012193416/article/details/127984264?spm=1001.2014.3001.5501)
+- [spatial temporal graph convolutional network for skeleton-based action recognition](https://blog.csdn.net/u012193416/article/details/127996905?spm=1001.2014.3001.5501)
+- [A survey on video action recognition in sports:datasets,methods and application](https://blog.csdn.net/u012193416/article/details/128340869?spm=1001.2014.3001.5501)
 
 
 
@@ -107,8 +122,6 @@
 
 - [pix2code: Generating Code from a Graphical User Interface Screenshot](https://github.com/tonybeltramelli/pix2code)
 - 
-
-
 
 
 
@@ -139,6 +152,7 @@
 
 - [CPM:A large-scale generative chinese pre-trained lanuage model](https://blog.csdn.net/u012193416/article/details/126040727?spm=1001.2014.3001.5501)
 - [bert:pre-training of deep bidirectional transformers for language understanding](https://blog.csdn.net/u012193416/article/details/125344316?spm=1001.2014.3001.5501)
+- [InstructGPT](https://blog.csdn.net/u012193416/article/details/129652972?spm=1001.2014.3001.5501)
 
 
 
@@ -161,19 +175,13 @@
 
 
 
-## Application & Blog
+## Super Resolution
 
-- [tezignlab](https://github.com/tezignlab)
-- [AI技术在智能海报设计中的应用](https://tech.meituan.com/2018/12/27/ai-in-banner-design.html)
-- [DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)
-- [Little CMS](https://www.littlecms.com/color-engine/)
-- [浙江大学国际设计研究院](http://www.idi.zju.edu.cn/)
-- [Ad-papers](https://github.com/wzhe06/Ad-papers)
-- 
+- [BasicVSR++:Improving Video Super-Resolution with Enhanced Propagation and Alignment](https://blog.csdn.net/u012193416/article/details/128665185?spm=1001.2014.3001.5501)
+
+
 
 ## Virtual Human
-
-**语音驱动**
 
 - Audio-Driven facial animation by joint end-to-end learning of pose and emotion
 - MakeItTalk:Speaker-Aware Talking-Head Animation
@@ -183,8 +191,7 @@
 - [Facegood Audio2Face](https://github.com/FACEGOOD/FACEGOOD-Audio2Face)
 - 
 
-**视频驱动**
-- paddlebobo
+- [paddlebobo](https://github.com/JiehangXie/PaddleBoBo)
 - 
 
 
@@ -198,4 +205,56 @@
 - [Tencent2020](https://github.com/guoday/Tencent2020_Rank1st)
 - [华为digix算法大赛2020机器学习赛道](https://github.com/digix2020/digix2020_ctr_rank1)
 - 
+
+## Application & Blog
+
+- [tezignlab](https://github.com/tezignlab)
+
+- [AI技术在智能海报设计中的应用](https://tech.meituan.com/2018/12/27/ai-in-banner-design.html)
+
+- [DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)
+
+- [Little CMS](https://www.littlecms.com/color-engine/)
+
+- [浙江大学国际设计研究院](http://www.idi.zju.edu.cn/)
+
+- [Ad-papers](https://github.com/wzhe06/Ad-papers)
+
+- [AIGC图像生成技术](https://blog.csdn.net/u012193416/article/details/129580540?spm=1001.2014.3001.5501)
+
+- [生成式ai](https://blog.csdn.net/u012193416/article/details/129780704?spm=1001.2014.3001.5501) 
+
+  
+
+## Our work
+
+- [Smartbanner: Intelligent banner design framework that strikes a balance between freedom and rules](https://blog.csdn.net/u012193416/article/details/128438411?spm=1001.2014.3001.5501)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
