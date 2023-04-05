@@ -31,6 +31,8 @@
 - [chain of thought prompting elicits reasoning in large language models](https://blog.csdn.net/u012193416/article/details/129652161?spm=1001.2014.3001.5501)
 - [training a helpful and harmless assistant with refinforcement learning from human feedback](https://blog.csdn.net/u012193416/article/details/129659942?spm=1001.2014.3001.5501)
 - [生成式ai](https://blog.csdn.net/u012193416/article/details/129780704?spm=1001.2014.3001.5501)
+- [auto-cot:automatic chain of thought prompting in large language models](https://github.com/amazon-science/auto-cot)
+- 
 
 
 
