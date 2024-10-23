@@ -32,6 +32,17 @@
 - [Applied Artificial Intelligence](http://www.letpub.com.cn/index.php?journalid=718&page=journalapp&view=detail) Q4  128
 - [IEEE Signal processing letters](http://www.letpub.com.cn/index.php?journalid=3353&page=journalapp&view=detail) Q3 443
 - [International journal of imaging systems and technology ](http://www.letpub.com.cn/index.php?journalid=3774&page=journalapp&view=detail)    Q4  151
+- [Spectroscopy Letters](https://www.letpub.com.cn/index.php?journalid=7606&page=journalapp&view=detail)  Q3  46  光谱学
+- [IEEE Journal of Biomedical and Health Informatics](https://www.letpub.com.cn/index.php?journalid=9464&page=journalapp&view=detail)   Q1 541
+- [Editorial Office Chinese Journal of Electronics]()  Q4 
+- [IEEE Transactions on Circuits and Systems for Video Technology](https://www.letpub.com.cn/index.php?journalid=3369&page=journalapp&view=detail)   Q1 154
+- [Chinese Journal of Electronics](https://www.letpub.com.cn/index.php?journalid=1710&page=journalapp&view=detail)  Q4  121
+- [IET Radar, Sonar & Navigation]()
+- [CAAI Transactions on Intelligence Technology](https://www.letpub.com.cn/index.php?journalid=14628&page=journalapp&view=detail)  Q1 121
+- [Journal of Spatial Science](https://www.letpub.com.cn/index.php?journalid=15865&page=journalapp&view=detail)  Q2
+- [Transactions on Information Forensics & Security](https://www.ivysci.com/journals/1556-6013/?lang=zh)  Q1
+- [IET Image Processing](https://www.letpub.com.cn/index.php?journalid=3447&page=journalapp&view=detail)  Q3 280
+
 - 激光与光电子学进展  半月刊  核心 cscd  单位好易中
 - 光谱学与光谱分析 核心 sci 不好中
 - 测绘通报  核心
