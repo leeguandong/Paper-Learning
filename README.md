@@ -45,7 +45,7 @@
 - [Neural Computing and Applications](https://link.springer.com/journal/521)  已被剔除SCIE
 - [Machine Vision and Applications](https://link.springer.com/journal/138)   Q4
 - [Pattern Analysis and Applications](https://link.springer.com/journal/10044)  Q4
-- [international journal of computational intelligence and application](https://worldscientific.com/worldscinet/ijprai)   Q4
+- [international journal of computational intelligence and application](https://worldscientific.com/worldscinet/ijprai)   Q4  提交时需要支付100美元
 
 - 激光与光电子学进展  半月刊  核心 cscd  单位好易中
 - 光谱学与光谱分析 核心 sci 不好中
