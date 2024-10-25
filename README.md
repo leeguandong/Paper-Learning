@@ -42,6 +42,7 @@
 - [Journal of Spatial Science](https://www.letpub.com.cn/index.php?journalid=15865&page=journalapp&view=detail)  Q2
 - [Transactions on Information Forensics & Security](https://www.ivysci.com/journals/1556-6013/?lang=zh)  Q1
 - [IET Image Processing](https://www.letpub.com.cn/index.php?journalid=3447&page=journalapp&view=detail)  Q3 280
+- [Neural Computing and Applications](https://link.springer.com/journal/521)    
 
 - 激光与光电子学进展  半月刊  核心 cscd  单位好易中
 - 光谱学与光谱分析 核心 sci 不好中
