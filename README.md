@@ -49,6 +49,7 @@
 - [international journal of computational intelligence and application](https://worldscientific.com/worldscinet/ijprai)   Q4  提交时需要支付100美元
 - [APPLIED SPECTROSCOPY](https://www.iikx.com/sci/technology/10420.html)   Q4
 - [Journal of Applied Spectroscopy](https://www.fabiao.com.cn/sci/00219037/)    Q4
+- [Journal of Imaging Science and Technology](https://www.ablesci.com/journal/detail?id=pPEPR5)   Q4
 - 
 
 - 激光与光电子学进展  半月刊  核心 cscd  单位好易中
