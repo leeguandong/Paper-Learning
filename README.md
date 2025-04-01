@@ -33,7 +33,7 @@
 - [Applied Artificial Intelligence](http://www.letpub.com.cn/index.php?journalid=718&page=journalapp&view=detail) Q4  128
 - [IEEE Signal processing letters](http://www.letpub.com.cn/index.php?journalid=3353&page=journalapp&view=detail) Q3 443
 - [International journal of imaging systems and technology ](http://www.letpub.com.cn/index.php?journalid=3774&page=journalapp&view=detail)    Q4  151
-- [Spectroscopy Letters](https://www.letpub.com.cn/index.php?journalid=7606&page=journalapp&view=detail)  Q3  46  光谱学
+- [Spectroscopy Letters](https://www.letpub.com.cn/index.php?journalid=7606&page=journalapp&view=detail)  Q3  46  光谱学  
 - [IEEE Journal of Biomedical and Health Informatics](https://www.letpub.com.cn/index.php?journalid=9464&page=journalapp&view=detail)   Q1 541
 - [Editorial Office Chinese Journal of Electronics]()  Q4 
 - [IEEE Transactions on Circuits and Systems for Video Technology](https://www.letpub.com.cn/index.php?journalid=3369&page=journalapp&view=detail)   Q1 154
@@ -47,6 +47,9 @@
 - [Machine Vision and Applications](https://link.springer.com/journal/138)   Q4
 - [Pattern Analysis and Applications](https://link.springer.com/journal/10044)  Q4
 - [international journal of computational intelligence and application](https://worldscientific.com/worldscinet/ijprai)   Q4  提交时需要支付100美元
+- [APPLIED SPECTROSCOPY](https://www.iikx.com/sci/technology/10420.html)   Q4
+- [Journal of Applied Spectroscopy](https://www.fabiao.com.cn/sci/00219037/)    Q4
+- 
 
 - 激光与光电子学进展  半月刊  核心 cscd  单位好易中
 - 光谱学与光谱分析 核心 sci 不好中
