@@ -51,7 +51,7 @@
 - [Journal of Applied Spectroscopy](https://www.fabiao.com.cn/sci/00219037/)    Q4  居然是邮箱投稿！！
 - [Journal of Imaging Science and Technology](https://www.ablesci.com/journal/detail?id=pPEPR5)   Q4
 - [Computers and Electronics in Agriculture]()
-- 
+- [Vibrational Spectroscopy](https://www.ablesci.com/journal/detail?id=DXd0VD)  Q3
 
 - 激光与光电子学进展  半月刊  核心 cscd  单位好易中
 - 光谱学与光谱分析 核心 sci 不好中
