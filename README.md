@@ -10,7 +10,7 @@
 - [会伴](https://www.myhuiban.com/)
 - ChinaMM
 - [CCF](https://blog.csdn.net/WangUnionpub/article/details/142363702)    
-- [IEEE Transactions on Geoscience and Remote Sensing](IEEE Transactions on Geoscience and Remote Sensing) Q2    1471
+- [IEEE Transactions on Geoscience and Remote Sensing]() Q2    1471
 - [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://www.letpub.com.cn/index.php?journalid=3336&page=journalapp&view=detail) Q3   948
 - [International Journal of Digital Earth](http://www.letpub.com.cn/index.php?journalid=3717&page=journalapp&view=detail) Q3  65
 - [Journal of Applied Remote Sensing](https://jars.msubmit.net/cgi-bin/main.plex) Q4  SPIE  1.57    176
