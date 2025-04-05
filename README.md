@@ -53,7 +53,7 @@
 - [Computers and Electronics in Agriculture]()
 - [Vibrational Spectroscopy](https://www.ablesci.com/journal/detail?id=DXd0VD)  Q3
 - [Journal of Molecular Spectroscopy](https://www.editorialmanager.com/jmsp/default2.aspx)   Q4
-- [Optics and Spectroscopy](https://publish.pleiadesonline.com/journal-detail/OS)  Q4
+- [Optics and Spectroscopy](https://publish.pleiadesonline.com/journal-detail/OS)  Q4  网站投不了搞，跳转不进去
 - [Earth Science Informatics](https://www.ablesci.com/journal/detail?id=pob8Vr)  Q3
 - [Advances in Space Research](https://www.ablesci.com/journal/detail?id=R5xNXr)  Q3 
 - [Applied Optics](https://www.ablesci.com/journal/detail?id=VrA69p)  Q4
