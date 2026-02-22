@@ -36,6 +36,9 @@
 - [Journal of Molecular Spectroscopy](https://www.editorialmanager.com/jmsp/default2.aspx)   Q4
 - [Optics and Spectroscopy](https://publish.pleiadesonline.com/journal-detail/OS)  Q4  网站投不了搞，跳转不进去
 - [Applied Optics](https://www.ablesci.com/journal/detail?id=VrA69p)  Q4
+- [Arabian Journal for Science and Engineering]()
+- [International Journal of Image and Data Fusion]()
+- [International Journal of Cartography]()
 
 中文核心：
 - 激光与光电子学进展  半月刊  核心 cscd  单位好易中
