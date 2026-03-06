@@ -72,6 +72,11 @@
 - [international journal of computational intelligence and application](https://worldscientific.com/worldscinet/ijprai)   Q4  提交时需要支付100美元
 - [Journal of Imaging Science and Technology](https://www.ablesci.com/journal/detail?id=pPEPR5)   Q4
 - [Neural Computing and Applications](https://link.springer.com/journal/521)  已被剔除SCIE
+- [Signal, Image and Video Processing](https://www.letpub.com.cn/index.php?journalid=8221&page=journalapp&view=detail#tonglytougjy) Q4 681 Springer
+- [Journal of Real-Time Image Processing](https://www.letpub.com.cn/index.php?journalid=8220&page=journalapp&view=detail#tonglytougjy) Q3 194 Springer
+- [Computer Vision and Image Understanding](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=1998) Q3 262
+- [DIGITAL SIGNAL PROCESSING](https://www.letpub.com.cn/index.php?journalid=2308&page=journalapp&view=detail#tonglytougjy) Q3  462
+- 
 
 中文核心：
 - 电子测量与仪器学报   核心
