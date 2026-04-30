@@ -96,7 +96,10 @@
 
 | 期刊 | 出版商 | IF | 年文量 | 备注 |
 | --- | --- | --- | --- | --- |
+| [ACM Computing Surveys](https://www.letpub.com.cn/index.php?journalid=19&page=journalapp&view=detail) | ACM | 28 | — | 综述刊，CCF-A；约稿为主 |
 | [IEEE Transactions on Image Processing](https://www.letpub.com.cn/index.php?journalid=3390&page=journalapp&view=detail) | IEEE | 13.7 | 760 | 图像处理顶刊，CCF-A |
+| [IEEE Transactions on Multimedia](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail) | IEEE | 9.7 | — | 多媒体顶刊；审稿约 3 个月 |
+| [Engineering Applications of Artificial Intelligence](https://www.letpub.com.cn/index.php?journalid=2513&page=journalapp&view=detail) | Elsevier | 8.0 | — | 自动化/控制/AI；录用率高 |
 | [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | IEEE | — | 1403 | Trans. on Neural Networks and Learning Systems |
 | [IEEE TCSVT](https://www.letpub.com.cn/index.php?journalid=3369&page=journalapp&view=detail) | IEEE | — | 154 | Trans. on Circuits and Systems for Video Technology |
 | [IEEE J-BHI](https://www.letpub.com.cn/index.php?journalid=9464&page=journalapp&view=detail) | IEEE | — | 541 | Biomedical and Health Informatics |
@@ -114,6 +117,8 @@
 | [Applied Intelligence](http://www.letpub.com.cn/index.php?journalid=737&page=journalapp&view=detail) | Springer | — | 839 | CCF-C |
 | [International Journal of Computer Vision](https://link.springer.com/journal/11263) | Springer | 9.3 | — | CCF-B |
 | [Neurocomputing](https://www.letpub.com.cn/index.php?journalid=6141&page=journalapp&view=detail) | Elsevier | 6.5 | — | 录用率约 80% |
+| [Applied Soft Computing](https://www.letpub.com.cn/index.php?journalid=760&page=journalapp&view=detail) | Elsevier | 6.6 | — | ⚠️ 审稿约 24 个月 |
+| [Neural Networks](https://www.letpub.com.cn/index.php?journalid=6126&page=journalapp&view=detail) | Elsevier | 6.3 | — | 审稿约 12 个月 |
 
 #### 🟠 Q3
 
@@ -128,6 +133,7 @@
 | [Digital Signal Processing](https://www.letpub.com.cn/index.php?journalid=2308&page=journalapp&view=detail) | Elsevier | — | 462 | — |
 | [Pattern Recognition Letters](https://www.letpub.com.cn/index.php?journalid=6516&page=journalapp&view=detail) | Elsevier | 3.3 | — | CCF-C |
 | [International Journal on Document Analysis and Recognition](https://link.springer.com/journal/10032) | Springer | 2.5 | — | OCR / 文档分析专刊 |
+| [Complex & Intelligent Systems](https://link.springer.com/journal/40747) | Springer | 4.6 | — | — |
 | [Cognitive Computation](https://www.letpub.com.cn/index.php?journalid=8477&page=journalapp&view=detail) | Springer | 4.3 | — | 认知计算，录用率高 |
 | [Connection Science](https://www.letpub.com.cn/index.php?journalid=2029&page=journalapp&view=detail) | Taylor & Francis | 3.4 | — | AI / 神经网络，录用率高 |
 | [The Visual Computer](https://www.letpub.com.cn/index.php?journalid=8059&page=journalapp&view=detail) | Springer | 2.9 | — | 图形学 / 图像，审稿约 3 个月 |
@@ -148,6 +154,7 @@
 | [International Journal of Computational Intelligence and Application](https://worldscientific.com/worldscinet/ijprai) | World Scientific | — | — | ⚠️ 投稿需 100 美元 |
 | [Journal of Imaging Science and Technology](https://www.ablesci.com/journal/detail?id=pPEPR5) | IS&T | — | — | — |
 | [Signal, Image and Video Processing](https://www.letpub.com.cn/index.php?journalid=8221&page=journalapp&view=detail) | Springer | — | 681 | — |
+| [Soft Computing](https://www.letpub.com.cn/index.php?journalid=7538&page=journalapp&view=detail) | Springer | 2.5 | — | — |
 | [Neural Computing and Applications](https://link.springer.com/journal/521) | Springer | — | — | ⚠️ 已剔除 SCIE |
 
 ---
