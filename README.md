@@ -1,101 +1,174 @@
 # Paper-Learning
-论文学习    
-研究生期间主要研究深度学习处理遥感影像和地名识别  
-工作之后主要从事视觉创意，ocr和文本篡改检测等工作
 
-# journal
+> 📚 个人论文学习与期刊投稿笔记
+>
+> - 研究生：深度学习 × 遥感影像 / 地名识别
+> - 工作后：视觉创意、OCR、文本篡改检测
 
-## 查询资源
-- [科研通](https://www.ablesci.com/journal/index?keywords=)
-- [LetPub](https://www.letpub.com.cn/index.php?page=journalapp)
-- [爱科学](https://www.iikx.com/sci/)
-- [会伴](https://www.myhuiban.com/)
-- ChinaMM
-- [CCF](https://blog.csdn.net/WangUnionpub/article/details/142363702)
+---
 
-## 遥感/地球科学
-- [IEEE Transactions on Geoscience and Remote Sensing]() Q2    1471
-- [International Journal of Applied Earth Observation and Geoinformation](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation) Q2 EI 7.672 444
-- [Journal of Spatial Science](https://www.letpub.com.cn/index.php?journalid=15865&page=journalapp&view=detail)  Q2
-- [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://www.letpub.com.cn/index.php?journalid=3336&page=journalapp&view=detail) Q3   948
-- [International Journal of Digital Earth](http://www.letpub.com.cn/index.php?journalid=3717&page=journalapp&view=detail) Q3  65
-- [Earth Science Informatics](https://www.ablesci.com/journal/detail?id=pob8Vr)  Q3
-- [Advances in Space Research](https://www.ablesci.com/journal/detail?id=R5xNXr)  Q3
-- [Spectroscopy Letters](https://www.letpub.com.cn/index.php?journalid=7606&page=journalapp&view=detail)  Q3  46  光谱学
-- [Vibrational Spectroscopy](https://www.ablesci.com/journal/detail?id=DXd0VD)  Q3
-- [Journal of Applied Remote Sensing](https://jars.msubmit.net/cgi-bin/main.plex) Q4  SPIE  1.57    176
-- [Photogrammetric Engineering & Remote Sensing](http://www.letpub.com.cn/index.php?journalid=6625&page=journalapp&view=detail) Q4
-- [Remote sensing letters](https://www.ablesci.com/journal/detail?id=5NbnL5) Q4   <10页，和下面是姊妹期刊   122
-- [International Journal of Remote Sensing](http://www.letpub.com.cn/index.php?journalid=3875&page=journalapp&view=detail) Q4  Taylor Francis  429
-- [IEEE Geoscience and Remote Sensing Letters](http://www.letpub.com.cn/index.php?journalid=3328&page=journalapp&view=detail) Q4    921
-- [Journal of the Indian Society of Remote  Sensing](http://www.letpub.com.cn/index.php?journalid=5302&page=journalapp&view=detail) Q4 Springer 1.894   181
-- [IET Radar, Sonar & Navigation]()
-- [Computers and Electronics in Agriculture]()
-- [Applied Spectroscopy](https://www.iikx.com/sci/technology/10420.html)   Q4
-- [Journal of Applied Spectroscopy](https://www.fabiao.com.cn/sci/00219037/)    Q4  居然是邮箱投稿！！
-- [Journal of Molecular Spectroscopy](https://www.editorialmanager.com/jmsp/default2.aspx)   Q4
-- [Optics and Spectroscopy](https://publish.pleiadesonline.com/journal-detail/OS)  Q4  网站投不了搞，跳转不进去
-- [Applied Optics](https://www.ablesci.com/journal/detail?id=VrA69p)  Q4
-- [Arabian Journal for Science and Engineering]()
-- [International Journal of Image and Data Fusion]()
-- [International Journal of Cartography]()
+## 📑 目录
 
-中文核心：
-- 激光与光电子学进展  半月刊  核心 cscd  单位好易中
-- 光谱学与光谱分析 核心 sci 不好中
-- 测绘通报  核心
-- 测绘科学  核心
+- [查询资源](#-查询资源)
+- [期刊列表](#-期刊列表)
+  - [遥感 / 地球科学](#-遥感--地球科学)
+  - [计算机 / 人工智能](#-计算机--人工智能)
+  - [中文核心](#-中文核心)
+- [出版商 & 投稿入口](#-出版商--投稿入口)
+- [会议](#-会议)
 
-## 计算机/人工智能
-- [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)  Q1   1403
-- [IEEE Transactions on Circuits and Systems for Video Technology](https://www.letpub.com.cn/index.php?journalid=3369&page=journalapp&view=detail)   Q1 154
-- [IEEE Journal of Biomedical and Health Informatics](https://www.letpub.com.cn/index.php?journalid=9464&page=journalapp&view=detail)   Q1 541
-- [CAAI Transactions on Intelligence Technology](https://www.letpub.com.cn/index.php?journalid=14628&page=journalapp&view=detail)  Q1 121
-- [Transactions on Information Forensics & Security](https://www.ivysci.com/journals/1556-6013/?lang=zh)  Q1
-- [Knowledge-Based Systems](https://www.letpub.com.cn/index.php?journalid=5495&page=journalapp&view=detail) Q2 Elsevier 8.139 948
-- [Applied Intelligence](http://www.letpub.com.cn/index.php?journalid=737&page=journalapp&view=detail) Q2   839 ccf-c
-- [International Journal of Multimedia Information Retrieval](https://www.springer.com/journal/13735)    Q3    Springer    3.205   19  pass
-- [Journal of Visual Communication and Image Representation](http://www.letpub.com.cn/index.php?journalid=5437&page=journalapp&view=detail)    Q3   233
-- [Computer vision and image understanding](http://www.letpub.com.cn/index.php?journalid=1998&page=journalapp&view=detail)   Q3   107
-- [IEEE Signal processing letters](http://www.letpub.com.cn/index.php?journalid=3353&page=journalapp&view=detail) Q3 443
-- [IET Image Processing](https://www.letpub.com.cn/index.php?journalid=3447&page=journalapp&view=detail)  Q3 280
-- [Displays](http://www.letpub.com.cn/index.php?journalid=2326&page=journalapp&view=detail) Q4
-- [Multimedia Tools and Applications](https://www.springer.com/journal/11042)  Q4  Springer 2.577  1397 ccf-c rs也可以投 2024 on hold了
-- [Multimedia Systems](https://www.springer.com/journal/530)  Q4 Springer 2.603  136  ccf-c
-- [International journal of pattern recognition and artificial intelligence](http://www.letpub.com.cn/index.php?journalid=3842&page=journalapp&view=detail) Q4   221
-- [Applied Artificial Intelligence](http://www.letpub.com.cn/index.php?journalid=718&page=journalapp&view=detail) Q4  128
-- [International journal of imaging systems and technology ](http://www.letpub.com.cn/index.php?journalid=3774&page=journalapp&view=detail)    Q4  151
-- [Editorial Office Chinese Journal of Electronics]()  Q4
-- [Chinese Journal of Electronics](https://www.letpub.com.cn/index.php?journalid=1710&page=journalapp&view=detail)  Q4  121
-- [Machine Vision and Applications](https://link.springer.com/journal/138)   Q4
-- [Pattern Analysis and Applications](https://link.springer.com/journal/10044)  Q4
-- [international journal of computational intelligence and application](https://worldscientific.com/worldscinet/ijprai)   Q4  提交时需要支付100美元
-- [Journal of Imaging Science and Technology](https://www.ablesci.com/journal/detail?id=pPEPR5)   Q4
-- [Neural Computing and Applications](https://link.springer.com/journal/521)  已被剔除SCIE
-- [Signal, Image and Video Processing](https://www.letpub.com.cn/index.php?journalid=8221&page=journalapp&view=detail#tonglytougjy) Q4 681 Springer
-- [Journal of Real-Time Image Processing](https://www.letpub.com.cn/index.php?journalid=8220&page=journalapp&view=detail#tonglytougjy) Q3 194 Springer
-- [Computer Vision and Image Understanding](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=1998) Q3 262
-- [DIGITAL SIGNAL PROCESSING](https://www.letpub.com.cn/index.php?journalid=2308&page=journalapp&view=detail#tonglytougjy) Q3  462
-- 
+---
 
-中文核心：
-- 电子测量与仪器学报   核心
-- 电子测量技术 核心  审稿费100 单页400
-- 仪器仪表学报 核心
-- 计算机工程  核心
-- 
+## 🔍 查询资源
 
+| 平台 | 链接 | 说明 |
+| --- | --- | --- |
+| 科研通 | [ablesci.com](https://www.ablesci.com/journal/index?keywords=) | 期刊检索、投稿经验 |
+| LetPub | [letpub.com.cn](https://www.letpub.com.cn/index.php?page=journalapp) | 中科院分区、IF、审稿周期 |
+| 爱科学 | [iikx.com](https://www.iikx.com/sci/) | SCI 检索、影响因子 |
+| 会伴 | [myhuiban.com](https://www.myhuiban.com/) | 学术会议日历 |
+| ChinaMM | — | 中国多媒体大会 |
+| CCF 推荐目录 | [CSDN 整理](https://blog.csdn.net/WangUnionpub/article/details/142363702) | CCF A/B/C 期刊与会议 |
 
+---
 
-## publishing
+## 📖 期刊列表
 
-- [Springer](https://www.springer.com/gp/authors-editors/journal-author/frequently-asked-questions/3832)     Natural springer 
-- [预印本出版商支持](https://www.sohu.com/a/413098060_100191228?qq-pf-to=pcqq.group)
-- [Taylor Francis](https://www.tandfonline.com/action/authorSubmission?journalCode=tres20&page=instructions#.V30JYWOtZOo)  
-- SPIE
-- 
+> **图例**：🟢 Q1 ｜ 🟡 Q2 ｜ 🟠 Q3 ｜ 🔴 Q4
+> **字段**：分区 / 出版商 / IF / 年文量 / 备注
 
-##  Conference
+### 🛰️ 遥感 / 地球科学
 
-- 2022 2nd International Conference on Advances in Optics and Computational Sciences (AOCS 2022)
-- 
+#### 🟡 Q2
+
+| 期刊 | 出版商 | IF | 年文量 | 备注 |
+| --- | --- | --- | --- | --- |
+| [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) | IEEE | — | 1471 | 遥感顶刊 |
+| [International Journal of Applied Earth Observation and Geoinformation](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation) | Elsevier | 7.672 | 444 | EI |
+| [Journal of Spatial Science](https://www.letpub.com.cn/index.php?journalid=15865&page=journalapp&view=detail) | Taylor & Francis | — | — | — |
+
+#### 🟠 Q3
+
+| 期刊 | 出版商 | IF | 年文量 | 备注 |
+| --- | --- | --- | --- | --- |
+| [IEEE J-STARS](https://www.letpub.com.cn/index.php?journalid=3336&page=journalapp&view=detail) | IEEE | — | 948 | Selected Topics in Applied Earth Observations |
+| [International Journal of Digital Earth](http://www.letpub.com.cn/index.php?journalid=3717&page=journalapp&view=detail) | Taylor & Francis | — | 65 | — |
+| [Earth Science Informatics](https://www.ablesci.com/journal/detail?id=pob8Vr) | Springer | — | — | — |
+| [Advances in Space Research](https://www.ablesci.com/journal/detail?id=R5xNXr) | Elsevier | — | — | — |
+| [Spectroscopy Letters](https://www.letpub.com.cn/index.php?journalid=7606&page=journalapp&view=detail) | Taylor & Francis | — | 46 | 光谱学 |
+| [Vibrational Spectroscopy](https://www.ablesci.com/journal/detail?id=DXd0VD) | Elsevier | — | — | — |
+
+#### 🔴 Q4
+
+| 期刊 | 出版商 | IF | 年文量 | 备注 |
+| --- | --- | --- | --- | --- |
+| [Journal of Applied Remote Sensing](https://jars.msubmit.net/cgi-bin/main.plex) | SPIE | 1.57 | 176 | — |
+| [Photogrammetric Engineering & Remote Sensing](http://www.letpub.com.cn/index.php?journalid=6625&page=journalapp&view=detail) | ASPRS | — | — | — |
+| [Remote Sensing Letters](https://www.ablesci.com/journal/detail?id=5NbnL5) | Taylor & Francis | — | 122 | <10 页，与 IJRS 姊妹刊 |
+| [International Journal of Remote Sensing](http://www.letpub.com.cn/index.php?journalid=3875&page=journalapp&view=detail) | Taylor & Francis | — | 429 | — |
+| [IEEE Geoscience and Remote Sensing Letters](http://www.letpub.com.cn/index.php?journalid=3328&page=journalapp&view=detail) | IEEE | — | 921 | — |
+| [Journal of the Indian Society of Remote Sensing](http://www.letpub.com.cn/index.php?journalid=5302&page=journalapp&view=detail) | Springer | 1.894 | 181 | — |
+| [Applied Spectroscopy](https://www.iikx.com/sci/technology/10420.html) | SAGE | — | — | — |
+| [Journal of Applied Spectroscopy](https://www.fabiao.com.cn/sci/00219037/) | Springer | — | — | ⚠️ 邮箱投稿 |
+| [Journal of Molecular Spectroscopy](https://www.editorialmanager.com/jmsp/default2.aspx) | Elsevier | — | — | — |
+| [Optics and Spectroscopy](https://publish.pleiadesonline.com/journal-detail/OS) | Pleiades | — | — | ⚠️ 网站跳转异常 |
+| [Applied Optics](https://www.ablesci.com/journal/detail?id=VrA69p) | Optica | — | — | — |
+| IET Radar, Sonar & Navigation | IET | — | — | — |
+| Computers and Electronics in Agriculture | Elsevier | — | — | — |
+| Arabian Journal for Science and Engineering | Springer | — | — | — |
+| International Journal of Image and Data Fusion | Taylor & Francis | — | — | — |
+| International Journal of Cartography | Taylor & Francis | — | — | — |
+
+---
+
+### 🤖 计算机 / 人工智能
+
+#### 🟢 Q1
+
+| 期刊 | 出版商 | IF | 年文量 | 备注 |
+| --- | --- | --- | --- | --- |
+| [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | IEEE | — | 1403 | Trans. on Neural Networks and Learning Systems |
+| [IEEE TCSVT](https://www.letpub.com.cn/index.php?journalid=3369&page=journalapp&view=detail) | IEEE | — | 154 | Trans. on Circuits and Systems for Video Technology |
+| [IEEE J-BHI](https://www.letpub.com.cn/index.php?journalid=9464&page=journalapp&view=detail) | IEEE | — | 541 | Biomedical and Health Informatics |
+| [CAAI Transactions on Intelligence Technology](https://www.letpub.com.cn/index.php?journalid=14628&page=journalapp&view=detail) | Wiley / IET | — | 121 | — |
+| [IEEE TIFS](https://www.ivysci.com/journals/1556-6013/?lang=zh) | IEEE | — | — | Information Forensics & Security |
+
+#### 🟡 Q2
+
+| 期刊 | 出版商 | IF | 年文量 | 备注 |
+| --- | --- | --- | --- | --- |
+| [Knowledge-Based Systems](https://www.letpub.com.cn/index.php?journalid=5495&page=journalapp&view=detail) | Elsevier | 8.139 | 948 | — |
+| [Applied Intelligence](http://www.letpub.com.cn/index.php?journalid=737&page=journalapp&view=detail) | Springer | — | 839 | CCF-C |
+
+#### 🟠 Q3
+
+| 期刊 | 出版商 | IF | 年文量 | 备注 |
+| --- | --- | --- | --- | --- |
+| [International Journal of Multimedia Information Retrieval](https://www.springer.com/journal/13735) | Springer | 3.205 | 19 | ⚠️ pass |
+| [Journal of Visual Communication and Image Representation](http://www.letpub.com.cn/index.php?journalid=5437&page=journalapp&view=detail) | Elsevier | — | 233 | — |
+| [Computer Vision and Image Understanding](https://www.letpub.com.cn/index.php?page=journalapp&view=detail&journalid=1998) | Elsevier | — | 262 | — |
+| [IEEE Signal Processing Letters](http://www.letpub.com.cn/index.php?journalid=3353&page=journalapp&view=detail) | IEEE | — | 443 | — |
+| [IET Image Processing](https://www.letpub.com.cn/index.php?journalid=3447&page=journalapp&view=detail) | IET | — | 280 | — |
+| [Journal of Real-Time Image Processing](https://www.letpub.com.cn/index.php?journalid=8220&page=journalapp&view=detail) | Springer | — | 194 | — |
+| [Digital Signal Processing](https://www.letpub.com.cn/index.php?journalid=2308&page=journalapp&view=detail) | Elsevier | — | 462 | — |
+
+#### 🔴 Q4
+
+| 期刊 | 出版商 | IF | 年文量 | 备注 |
+| --- | --- | --- | --- | --- |
+| [Displays](http://www.letpub.com.cn/index.php?journalid=2326&page=journalapp&view=detail) | Elsevier | — | — | — |
+| [Multimedia Tools and Applications](https://www.springer.com/journal/11042) | Springer | 2.577 | 1397 | CCF-C；遥感方向也可投；⚠️ 2024 on hold |
+| [Multimedia Systems](https://www.springer.com/journal/530) | Springer | 2.603 | 136 | CCF-C |
+| [International Journal of Pattern Recognition and AI](http://www.letpub.com.cn/index.php?journalid=3842&page=journalapp&view=detail) | World Scientific | — | 221 | — |
+| [Applied Artificial Intelligence](http://www.letpub.com.cn/index.php?journalid=718&page=journalapp&view=detail) | Taylor & Francis | — | 128 | — |
+| [International Journal of Imaging Systems and Technology](http://www.letpub.com.cn/index.php?journalid=3774&page=journalapp&view=detail) | Wiley | — | 151 | — |
+| [Chinese Journal of Electronics](https://www.letpub.com.cn/index.php?journalid=1710&page=journalapp&view=detail) | IET / CIE | — | 121 | — |
+| [Machine Vision and Applications](https://link.springer.com/journal/138) | Springer | — | — | — |
+| [Pattern Analysis and Applications](https://link.springer.com/journal/10044) | Springer | — | — | — |
+| [International Journal of Computational Intelligence and Application](https://worldscientific.com/worldscinet/ijprai) | World Scientific | — | — | ⚠️ 投稿需 100 美元 |
+| [Journal of Imaging Science and Technology](https://www.ablesci.com/journal/detail?id=pPEPR5) | IS&T | — | — | — |
+| [Signal, Image and Video Processing](https://www.letpub.com.cn/index.php?journalid=8221&page=journalapp&view=detail) | Springer | — | 681 | — |
+| [Neural Computing and Applications](https://link.springer.com/journal/521) | Springer | — | — | ⚠️ 已剔除 SCIE |
+
+---
+
+### 📚 中文核心
+
+#### 遥感 / 光谱
+
+| 期刊 | 收录 | 备注 |
+| --- | --- | --- |
+| 激光与光电子学进展 | 核心 / CSCD | 半月刊，单位好易中 |
+| 光谱学与光谱分析 | 核心 / SCI | 不好中 |
+| 测绘通报 | 核心 | — |
+| 测绘科学 | 核心 | — |
+
+#### 计算机 / 仪器
+
+| 期刊 | 收录 | 备注 |
+| --- | --- | --- |
+| 电子测量与仪器学报 | 核心 | — |
+| 电子测量技术 | 核心 | 审稿费 100，单页 400 |
+| 仪器仪表学报 | 核心 | — |
+| 计算机工程 | 核心 | — |
+
+---
+
+## 🏢 出版商 & 投稿入口
+
+| 出版商 | 链接 | 说明 |
+| --- | --- | --- |
+| Springer Nature | [作者 FAQ](https://www.springer.com/gp/authors-editors/journal-author/frequently-asked-questions/3832) | Springer / Nature |
+| Taylor & Francis | [投稿入口](https://www.tandfonline.com/action/authorSubmission?journalCode=tres20&page=instructions#.V30JYWOtZOo) | — |
+| SPIE | — | 光学与光子学 |
+| 预印本支持 | [搜狐整理](https://www.sohu.com/a/413098060_100191228?qq-pf-to=pcqq.group) | 各出版商对预印本的政策 |
+
+---
+
+## 🎤 会议
+
+- **AOCS 2022** — 2nd International Conference on Advances in Optics and Computational Sciences
+
+---
+
+> 📝 持续更新中。欢迎 issue / PR 补充投稿经验。
