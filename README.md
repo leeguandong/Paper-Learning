@@ -13,6 +13,7 @@
 - [期刊列表](#-期刊列表)
   - [遥感 / 地球科学](#-遥感--地球科学)
   - [计算机 / 人工智能](#-计算机--人工智能)
+  - [综合 / 跨学科](#-综合--跨学科)
   - [中文核心](#-中文核心)
 - [出版商 & 投稿入口](#-出版商--投稿入口)
 - [会议](#-会议)
@@ -55,6 +56,7 @@
 | [International Journal of Applied Earth Observation and Geoinformation](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation) | Elsevier | 7.672 | 444 | EI |
 | [Journal of Spatial Science](https://www.letpub.com.cn/index.php?journalid=15865&page=journalapp&view=detail) | Taylor & Francis | — | — | — |
 | [Science of Remote Sensing](https://www.sciencedirect.com/journal/science-of-remote-sensing) | Elsevier | 5.2 | — | 新刊 |
+| [Remote Sensing](https://www.letpub.com.cn/index.php?journalid=8969&page=journalapp&view=detail) | MDPI | 4.1 | — | OA；审稿 3~8 周 |
 
 #### 🟠 Q3
 
@@ -128,6 +130,10 @@
 | [Digital Signal Processing](https://www.letpub.com.cn/index.php?journalid=2308&page=journalapp&view=detail) | Elsevier | — | 462 | — |
 | [Pattern Recognition Letters](https://www.letpub.com.cn/index.php?journalid=6516&page=journalapp&view=detail) | Elsevier | 3.3 | — | CCF-C |
 | [International Journal on Document Analysis and Recognition](https://link.springer.com/journal/10032) | Springer | 2.5 | — | OCR / 文档分析专刊 |
+| [Cognitive Computation](https://www.letpub.com.cn/index.php?journalid=8477&page=journalapp&view=detail) | Springer | 4.3 | — | 认知计算，录用率高 |
+| [Connection Science](https://www.letpub.com.cn/index.php?journalid=2029&page=journalapp&view=detail) | Taylor & Francis | 3.4 | — | AI / 神经网络，录用率高 |
+| [The Visual Computer](https://www.letpub.com.cn/index.php?journalid=8059&page=journalapp&view=detail) | Springer | 2.9 | — | 图形学 / 图像，审稿约 3 个月 |
+| [Electronics](https://www.letpub.com.cn/index.php?journalid=10444&page=journalapp&view=detail) | MDPI | 2.6 | — | OA；计算机信息系统 |
 
 #### 🔴 Q4
 
@@ -146,6 +152,22 @@
 | [Journal of Imaging Science and Technology](https://www.ablesci.com/journal/detail?id=pPEPR5) | IS&T | — | — | — |
 | [Signal, Image and Video Processing](https://www.letpub.com.cn/index.php?journalid=8221&page=journalapp&view=detail) | Springer | — | 681 | — |
 | [Neural Computing and Applications](https://link.springer.com/journal/521) | Springer | — | — | ⚠️ 已剔除 SCIE |
+
+---
+
+### 🌐 综合 / 跨学科
+
+> 覆盖面广、接受率相对高，适合快速发表或方向跨界投稿。
+
+#### 🟠 Q3
+
+| 期刊 | 出版商 | IF | 年文量 | 备注 |
+| --- | --- | --- | --- | --- |
+| [Scientific Reports](https://www.letpub.com.cn/index.php?journalid=8695&page=journalapp&view=detail) | Nature Portfolio | 3.9 | — | OA；综合；接受率高，审稿 2~3 月 |
+| [IEEE Access](https://www.letpub.com.cn/index.php?journalid=10017&page=journalapp&view=detail) | IEEE | 3.6 | — | OA；计算机/信息系统；审稿约 6 周 |
+| [Sensors](https://www.letpub.com.cn/index.php?journalid=7473&page=journalapp&view=detail) | MDPI | 3.5 | — | OA；传感器 / 综合；接受率约 80% |
+| [PLOS ONE](https://www.letpub.com.cn/index.php?journalid=6775&page=journalapp&view=detail) | PLOS | 2.6 | — | OA；综合；接受率约 88%，审稿 2~3 月 |
+| [Applied Sciences](https://www.letpub.com.cn/index.php?journalid=9954&page=journalapp&view=detail) | MDPI | 2.5 | — | OA；综合应用；审稿约 11 周 |
 
 ---
 
