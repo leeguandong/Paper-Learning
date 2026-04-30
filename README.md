@@ -39,6 +39,14 @@
 
 ### 🛰️ 遥感 / 地球科学
 
+#### 🟢 Q1
+
+| 期刊 | 出版商 | IF | 年文量 | 备注 |
+| --- | --- | --- | --- | --- |
+| [ISPRS Journal of Photogrammetry and Remote Sensing](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing) | Elsevier / ISPRS | 12.2 | — | 摄影测量与遥感顶刊 |
+| [Remote Sensing of Environment](https://www.letpub.com.cn/index.php?journalid=7128&page=journalapp&view=detail) | Elsevier | 11.4 | — | 遥感环境顶刊 |
+| [GIScience & Remote Sensing](https://www.letpub.com.cn/index.php?journalid=3102&page=journalapp&view=detail) | Taylor & Francis | 6.9 | — | OA；自然地理 |
+
 #### 🟡 Q2
 
 | 期刊 | 出版商 | IF | 年文量 | 备注 |
@@ -46,6 +54,7 @@
 | [IEEE Transactions on Geoscience and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=36) | IEEE | — | 1471 | 遥感顶刊 |
 | [International Journal of Applied Earth Observation and Geoinformation](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation) | Elsevier | 7.672 | 444 | EI |
 | [Journal of Spatial Science](https://www.letpub.com.cn/index.php?journalid=15865&page=journalapp&view=detail) | Taylor & Francis | — | — | — |
+| [Science of Remote Sensing](https://www.sciencedirect.com/journal/science-of-remote-sensing) | Elsevier | 5.2 | — | 新刊 |
 
 #### 🟠 Q3
 
@@ -87,11 +96,15 @@
 
 | 期刊 | 出版商 | IF | 年文量 | 备注 |
 | --- | --- | --- | --- | --- |
+| [IEEE Transactions on Image Processing](https://www.letpub.com.cn/index.php?journalid=3390&page=journalapp&view=detail) | IEEE | 13.7 | 760 | 图像处理顶刊，CCF-A |
 | [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | IEEE | — | 1403 | Trans. on Neural Networks and Learning Systems |
 | [IEEE TCSVT](https://www.letpub.com.cn/index.php?journalid=3369&page=journalapp&view=detail) | IEEE | — | 154 | Trans. on Circuits and Systems for Video Technology |
 | [IEEE J-BHI](https://www.letpub.com.cn/index.php?journalid=9464&page=journalapp&view=detail) | IEEE | — | 541 | Biomedical and Health Informatics |
 | [CAAI Transactions on Intelligence Technology](https://www.letpub.com.cn/index.php?journalid=14628&page=journalapp&view=detail) | Wiley / IET | — | 121 | — |
 | [IEEE TIFS](https://www.ivysci.com/journals/1556-6013/?lang=zh) | IEEE | — | — | Information Forensics & Security |
+| [Pattern Recognition](https://www.letpub.com.cn/index.php?journalid=6515&page=journalapp&view=detail) | Elsevier | 7.6 | — | CCF-B |
+| [Expert Systems with Applications](https://www.letpub.com.cn/index.php?journalid=2799&page=journalapp&view=detail) | Elsevier | 7.5 | — | 审稿约 13.8 个月 |
+| [Information Sciences](https://www.letpub.com.cn/index.php?journalid=3567&page=journalapp&view=detail) | Elsevier | 6.8 | — | — |
 
 #### 🟡 Q2
 
@@ -99,6 +112,8 @@
 | --- | --- | --- | --- | --- |
 | [Knowledge-Based Systems](https://www.letpub.com.cn/index.php?journalid=5495&page=journalapp&view=detail) | Elsevier | 8.139 | 948 | — |
 | [Applied Intelligence](http://www.letpub.com.cn/index.php?journalid=737&page=journalapp&view=detail) | Springer | — | 839 | CCF-C |
+| [International Journal of Computer Vision](https://link.springer.com/journal/11263) | Springer | 9.3 | — | CCF-B |
+| [Neurocomputing](https://www.letpub.com.cn/index.php?journalid=6141&page=journalapp&view=detail) | Elsevier | 6.5 | — | 录用率约 80% |
 
 #### 🟠 Q3
 
@@ -111,6 +126,8 @@
 | [IET Image Processing](https://www.letpub.com.cn/index.php?journalid=3447&page=journalapp&view=detail) | IET | — | 280 | — |
 | [Journal of Real-Time Image Processing](https://www.letpub.com.cn/index.php?journalid=8220&page=journalapp&view=detail) | Springer | — | 194 | — |
 | [Digital Signal Processing](https://www.letpub.com.cn/index.php?journalid=2308&page=journalapp&view=detail) | Elsevier | — | 462 | — |
+| [Pattern Recognition Letters](https://www.letpub.com.cn/index.php?journalid=6516&page=journalapp&view=detail) | Elsevier | 3.3 | — | CCF-C |
+| [International Journal on Document Analysis and Recognition](https://link.springer.com/journal/10032) | Springer | 2.5 | — | OCR / 文档分析专刊 |
 
 #### 🔴 Q4
 
