@@ -47,7 +47,7 @@
 | 🟡 | [International Journal of Applied Earth Observation and Geoinformation](https://www.sciencedirect.com/journal/international-journal-of-applied-earth-observation-and-geoinformation) | Elsevier | 7.672 | EI；年文量 444 |
 | 🟡 | [Journal of Spatial Science](https://www.letpub.com.cn/index.php?journalid=15865&page=journalapp&view=detail) | Taylor & Francis | — | — |
 | 🟡 | [Science of Remote Sensing](https://www.sciencedirect.com/journal/science-of-remote-sensing) | Elsevier | 5.2 | 新刊 |
-| 🟠 | [IEEE J-STARS](https://www.letpub.com.cn/index.php?journalid=3336&page=journalapp&view=detail) | IEEE | — | Selected Topics in Applied Earth Obs；年文量 948 |
+| 🟠 | [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://www.letpub.com.cn/index.php?journalid=3336&page=journalapp&view=detail) | IEEE | — | 年文量 948 |
 | 🟠 | [International Journal of Digital Earth](http://www.letpub.com.cn/index.php?journalid=3717&page=journalapp&view=detail) | Taylor & Francis | — | 年文量 65 |
 | 🟠 | [Earth Science Informatics](https://www.ablesci.com/journal/detail?id=pob8Vr) | Springer | — | — |
 | 🟠 | [Advances in Space Research](https://www.ablesci.com/journal/detail?id=R5xNXr) | Elsevier | — | — |
@@ -80,11 +80,11 @@
 | 🟢 | [IEEE Transactions on Image Processing](https://www.letpub.com.cn/index.php?journalid=3390&page=journalapp&view=detail) | IEEE | 13.7 | 图像处理顶刊，CCF-A；年文量 760 |
 | 🟢 | [IEEE Transactions on Multimedia](https://www.letpub.com.cn/index.php?journalid=3404&page=journalapp&view=detail) | IEEE | 9.7 | 多媒体顶刊；审稿约 3 个月 |
 | 🟢 | [Engineering Applications of Artificial Intelligence](https://www.letpub.com.cn/index.php?journalid=2513&page=journalapp&view=detail) | Elsevier | 8.0 | 自动化/控制/AI；录用率高 |
-| 🟢 | [IEEE TNNLS](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | IEEE | — | Trans. on Neural Networks and Learning Systems；年文量 1403 |
-| 🟢 | [IEEE TCSVT](https://www.letpub.com.cn/index.php?journalid=3369&page=journalapp&view=detail) | IEEE | — | Trans. on Circuits and Systems for Video Technology；年文量 154 |
-| 🟢 | [IEEE J-BHI](https://www.letpub.com.cn/index.php?journalid=9464&page=journalapp&view=detail) | IEEE | — | Biomedical and Health Informatics；年文量 541 |
+| 🟢 | [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems) | IEEE | — | 年文量 1403 |
+| 🟢 | [IEEE Transactions on Circuits and Systems for Video Technology](https://www.letpub.com.cn/index.php?journalid=3369&page=journalapp&view=detail) | IEEE | — | 年文量 154 |
+| 🟢 | [IEEE Journal of Biomedical and Health Informatics](https://www.letpub.com.cn/index.php?journalid=9464&page=journalapp&view=detail) | IEEE | — | 年文量 541 |
 | 🟢 | [CAAI Transactions on Intelligence Technology](https://www.letpub.com.cn/index.php?journalid=14628&page=journalapp&view=detail) | Wiley / IET | — | 年文量 121 |
-| 🟢 | [IEEE TIFS](https://www.ivysci.com/journals/1556-6013/?lang=zh) | IEEE | — | Information Forensics & Security |
+| 🟢 | [IEEE Transactions on Information Forensics and Security](https://www.ivysci.com/journals/1556-6013/?lang=zh) | IEEE | — | — |
 | 🟢 | [Pattern Recognition](https://www.letpub.com.cn/index.php?journalid=6515&page=journalapp&view=detail) | Elsevier | 7.6 | CCF-B |
 | 🟢 | [Expert Systems with Applications](https://www.letpub.com.cn/index.php?journalid=2799&page=journalapp&view=detail) | Elsevier | 7.5 | 审稿约 13.8 个月 |
 | 🟢 | [Information Sciences](https://www.letpub.com.cn/index.php?journalid=3567&page=journalapp&view=detail) | Elsevier | 6.8 | — |
