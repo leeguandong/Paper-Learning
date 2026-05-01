@@ -84,7 +84,7 @@
 | [Applied Optics](https://www.ablesci.com/journal/detail?id=VrA69p) | Optica | — | — | — |
 | IET Radar, Sonar & Navigation | IET | — | — | — |
 | Computers and Electronics in Agriculture | Elsevier | — | — | — |
-| Arabian Journal for Science and Engineering | Springer | — | — | — |
+| [Arabian Journal for Science and Engineering](https://www.letpub.com.cn/index.php?journalid=9955&page=journalapp&view=detail) | Springer | 2.9 | — | 综合工程类 |
 | International Journal of Image and Data Fusion | Taylor & Francis | — | — | — |
 | International Journal of Cartography | Taylor & Francis | — | — | — |
 
@@ -119,6 +119,8 @@
 | [Neurocomputing](https://www.letpub.com.cn/index.php?journalid=6141&page=journalapp&view=detail) | Elsevier | 6.5 | — | 录用率约 80% |
 | [Applied Soft Computing](https://www.letpub.com.cn/index.php?journalid=760&page=journalapp&view=detail) | Elsevier | 6.6 | — | ⚠️ 审稿约 24 个月 |
 | [Neural Networks](https://www.letpub.com.cn/index.php?journalid=6126&page=journalapp&view=detail) | Elsevier | 6.3 | — | 审稿约 12 个月 |
+| [Image and Vision Computing](https://www.ablesci.com/journal/detail?id=5O98Xr) | Elsevier | 4.2 | — | — |
+| [Signal Processing](https://www.ablesci.com/journal/detail?id=rwRgYD) | Elsevier | 3.6 | — | — |
 
 #### 🟠 Q3
 
@@ -137,13 +139,16 @@
 | [Cognitive Computation](https://www.letpub.com.cn/index.php?journalid=8477&page=journalapp&view=detail) | Springer | 4.3 | — | 认知计算，录用率高 |
 | [Connection Science](https://www.letpub.com.cn/index.php?journalid=2029&page=journalapp&view=detail) | Taylor & Francis | 3.4 | — | AI / 神经网络，录用率高 |
 | [The Visual Computer](https://www.letpub.com.cn/index.php?journalid=8059&page=journalapp&view=detail) | Springer | 2.9 | — | 图形学 / 图像，审稿约 3 个月 |
+| [Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications) | Elsevier | 4.3 | — | — |
+| [Signal Processing: Image Communication](https://www.ablesci.com/journal/detail?id=Dal8L5) | Elsevier | 2.7 | — | — |
 
 #### 🔴 Q4
 
 | 期刊 | 出版商 | IF | 年文量 | 备注 |
 | --- | --- | --- | --- | --- |
 | [Displays](http://www.letpub.com.cn/index.php?journalid=2326&page=journalapp&view=detail) | Elsevier | — | — | — |
-| [Multimedia Tools and Applications](https://www.springer.com/journal/11042) | Springer | 2.577 | 1397 | CCF-C；遥感方向也可投；⚠️ 2024 on hold |
+| [Multimedia Tools and Applications](https://www.springer.com/journal/11042) | Springer | — | — | CCF-C；⚠️ 已剔除 SCI |
+| [IEEE Multimedia](https://www.letpub.com.cn/index.php?journalid=3345&page=journalapp&view=detail) | IEEE | 3.3 | — | — |
 | [Multimedia Systems](https://www.springer.com/journal/530) | Springer | 2.603 | 136 | CCF-C |
 | [International Journal of Pattern Recognition and AI](http://www.letpub.com.cn/index.php?journalid=3842&page=journalapp&view=detail) | World Scientific | — | 221 | — |
 | [Applied Artificial Intelligence](http://www.letpub.com.cn/index.php?journalid=718&page=journalapp&view=detail) | Taylor & Francis | — | 128 | — |
