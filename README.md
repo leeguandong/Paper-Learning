@@ -88,6 +88,8 @@
 | Q1 | [Pattern Recognition](https://www.letpub.com.cn/index.php?journalid=6515&page=journalapp&view=detail) | Elsevier | 7.6 | JCR-Q1；CCF-B |
 | Q1 | [Expert Systems with Applications](https://www.letpub.com.cn/index.php?journalid=2799&page=journalapp&view=detail) | Elsevier | 7.5 | JCR-Q1；CCF-C；审稿约 13.8 个月 |
 | Q1 | [Information Sciences](https://www.letpub.com.cn/index.php?journalid=3567&page=journalapp&view=detail) | Elsevier | 6.8 | JCR-Q1；CCF-B |
+| Q1 | [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis) | Elsevier | 11.8 | JCR-Q1；CCF-C；医学图像分析顶刊 |
+| Q1 | [International Journal of Neural Systems](https://www.worldscientific.com/worldscinet/ijns) | World Scientific | 6.4 | JCR-Q1；CCF-C |
 | Q2 | [Knowledge-Based Systems](https://www.letpub.com.cn/index.php?journalid=5495&page=journalapp&view=detail) | Elsevier | 8.139 | JCR-Q1；CCF-C；年文量 948 |
 | Q2 | [International Journal of Computer Vision](https://link.springer.com/journal/11263) | Springer | 9.3 | JCR-Q1；CCF-A |
 | Q2 | [Applied Soft Computing](https://www.letpub.com.cn/index.php?journalid=760&page=journalapp&view=detail) | Elsevier | 6.6 | JCR-Q1；CCF-C；⚠️ 审稿约 24 个月 |
@@ -96,6 +98,10 @@
 | Q2 | [Applied Intelligence](http://www.letpub.com.cn/index.php?journalid=737&page=journalapp&view=detail) | Springer | 3.5 | JCR-Q2；CCF-C；年文量 839 |
 | Q2 | [Image and Vision Computing](https://www.ablesci.com/journal/detail?id=5O98Xr) | Elsevier | 4.2 | JCR-Q1；CCF-C |
 | Q2 | [Signal Processing](https://www.ablesci.com/journal/detail?id=rwRgYD) | Elsevier | 3.6 | JCR-Q1；CCF-C |
+| Q2 | [Computational Visual Media](https://link.springer.com/journal/41095) | Springer / Tsinghua | 18.3 | JCR-Q1；CCF-C |
+| Q2 | [Decision Support Systems](https://www.sciencedirect.com/journal/decision-support-systems) | Elsevier | 6.8 | JCR-Q1；CCF-C |
+| Q2 | [Artificial Intelligence in Medicine](https://www.sciencedirect.com/journal/artificial-intelligence-in-medicine) | Elsevier | 6.2 | JCR-Q1；CCF-C；医疗 AI |
+| Q2 | [Computer Speech & Language](https://www.sciencedirect.com/journal/computer-speech-and-language) | Elsevier | 3.4 | JCR-Q2；CCF-C；语音/OCR 相关 |
 | Q3 | [Complex & Intelligent Systems](https://link.springer.com/journal/40747) | Springer | 4.6 | JCR-Q1 |
 | Q3 | [Cognitive Computation](https://www.letpub.com.cn/index.php?journalid=8477&page=journalapp&view=detail) | Springer | 4.3 | JCR-Q1；CCF-C；录用率高 |
 | Q3 | [Intelligent Systems with Applications](https://www.sciencedirect.com/journal/intelligent-systems-with-applications) | Elsevier | 4.3 | JCR-Q1 |
@@ -111,6 +117,9 @@
 | Q3 | [IET Image Processing](https://www.letpub.com.cn/index.php?journalid=3447&page=journalapp&view=detail) | IET | 2.2 | JCR-Q2；CCF-C；年文量 280 |
 | Q3 | [Journal of Real-Time Image Processing](https://www.letpub.com.cn/index.php?journalid=8220&page=journalapp&view=detail) | Springer | 3.0 | JCR-Q2；年文量 194 |
 | Q3 | [Digital Signal Processing](https://www.letpub.com.cn/index.php?journalid=2308&page=journalapp&view=detail) | Elsevier | 3.0 | JCR-Q2；CCF-C；年文量 462 |
+| Q3 | [Visual Informatics](https://www.sciencedirect.com/journal/visual-informatics) | Elsevier | 3.9 | JCR-Q2；CCF-C |
+| Q3 | [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x) | Wiley | 3.7 | JCR-Q2；CCF-C |
+| Q3 | [Computers & Graphics](https://www.sciencedirect.com/journal/computers-and-graphics) | Elsevier | 2.8 | JCR 无（2024年移出）；CCF-C；图形学 |
 | Q4 | [IEEE Multimedia](https://www.letpub.com.cn/index.php?journalid=3345&page=journalapp&view=detail) | IEEE | 3.3 | JCR-Q1；CCF-B |
 | Q4 | [Multimedia Systems](https://www.springer.com/journal/530) | Springer | 2.603 | JCR-Q1；CCF-C；年文量 136 |
 | Q4 | [Soft Computing](https://www.letpub.com.cn/index.php?journalid=7538&page=journalapp&view=detail) | Springer | 2.5 | JCR-Q2；CCF-C |
@@ -126,6 +135,11 @@
 | Q4 | [Signal, Image and Video Processing](https://www.letpub.com.cn/index.php?journalid=8221&page=journalapp&view=detail) | Springer | 2.1 | JCR-Q3；年文量 681 |
 | Q4 | [Multimedia Tools and Applications](https://www.springer.com/journal/11042) | Springer | — | CCF-C；⚠️ 已剔除 SCI |
 | Q4 | [Neural Computing and Applications](https://link.springer.com/journal/521) | Springer | — | CCF-C；⚠️ 已剔除 SCIE |
+| Q4 | [Neural Processing Letters](https://link.springer.com/journal/11063) | Springer | 2.8 | JCR-Q3；CCF-C |
+| Q4 | [Graphical Models](https://www.sciencedirect.com/journal/graphical-models) | Elsevier | 2.2 | JCR-Q2；CCF-C |
+| Q4 | [Computer Animation and Virtual Worlds](https://onlinelibrary.wiley.com/journal/15464261) | Wiley | 1.7 | JCR-Q3；CCF-C |
+| Q4 | [IET Computer Vision](https://ietresearch.onlinelibrary.wiley.com/journal/17519640) | IET / Wiley | 1.3 | JCR-Q3；CCF-C |
+| Q4 | [IET Signal Processing](https://ietresearch.onlinelibrary.wiley.com/journal/17519683) | IET / Wiley | 1.4 | JCR-Q3；CCF-C |
 
 ---
 
